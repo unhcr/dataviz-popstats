@@ -593,7 +593,7 @@
                 <g transform="matrix(1,0,0,1,27.0589,-260.893)">
                     <g id="embedtext">
                         <text x="486.196px" y="502.047px" style="font-family:Lato;font-size:14.167px;fill:#fff;">&lt;iframe id=&quot;unhcr_popstats_embed&quot; style=&quot;border: none&quot;</text>
-                        <text x="486.196px" y="518.713px" style="font-family:Lato;font-size:14.167px;fill:#fff;">src=&quot;http://data.unhcr.org/popstats/index.html&quot; width=&quot;100%&quot;</text>
+                        <text x="486.196px" y="518.713px" style="font-family:Lato;font-size:14.167px;fill:#fff;">src=&quot;http://popstats.unhcr.org/dataviz/index.html&quot; width=&quot;100%&quot;</text>
                         <text x="486.196px" y="535.38px" style="font-family:Lato;font-size:14.167px;fill:#fff;">onload=&apos;javascript:iframeResize();&apos;&gt;&lt;/iframe&gt;&lt;script&gt;window.onresize = function(){</text>
                         <text x="486.196px" y="552.047px" style="font-family:Lato;font-size:14.167px;fill:#fff;">iframeResize();}; function iframeResize(){ var iw = $(&apos;#unhcr_popstats_embed&apos;).width();</text>
                         <text x="486.196px" y="568.713px" style="font-family:Lato;font-size:14.167px;fill:#fff;">$(&apos;#unhcr_popstats_embed&apos;).height(iw/1.415);}; &lt;/script&gt;</text>

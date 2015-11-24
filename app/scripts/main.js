@@ -1617,7 +1617,7 @@ d3.selectAll('#socialmedia > g')
 
 d3.select('#socialmedia #facebook')
 .on('click', function(){
-	window.open("https://www.facebook.com/dialog/feed?app_id=694165360698061&link=http%3A%2F%2Fpopstats.unhcr.org&picture=http%3A%2F%2Fdata.unhcr.org%2Fpopstats%2Fimages%2Fthumbnail.jpg&name=UNHCR%20Statistics%20-%20The%20World%20in%20Numbers&caption=%20&description=Interactive%20data%20visualisation&redirect_uri=http%3A%2F%2Fwww.facebook.com%2F", "_blank");
+	window.open("https://www.facebook.com/dialog/feed?app_id=694165360698061&link=http%3A%2F%2Fpopstats.unhcr.org&picture=http%3A%2F%2Fpopstats.unhcr.org%2Fdataviz%2Fimages%2Fthumbnail.jpg&name=UNHCR%20Statistics%20-%20The%20World%20in%20Numbers&caption=%20&description=Interactive%20data%20visualisation&redirect_uri=http%3A%2F%2Fwww.facebook.com%2F", "_blank");
 });
 
 d3.select('#socialmedia #twitter')
@@ -1627,7 +1627,7 @@ d3.select('#socialmedia #twitter')
 
 d3.select('#socialmedia #pinterest')
 .on('click', function(){
-	window.open("http://pinterest.com/pin/create/button/?url="+url+"&media=http://data.unhcr.org/popstats/images/thumbnail.jpg", "_blank");
+	window.open("http://pinterest.com/pin/create/button/?url="+url+"&media=http://popstats.unhcr.org/dataviz/images/thumbnail.jpg", "_blank");
 });
 
 d3.select('#socialmedia #googleplus')
