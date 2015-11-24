@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="74px" height="37px" viewBox="0 0 74 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>label2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Portrait---6-Plus" sketch:type="MSArtboardGroup" transform="translate(-5.000000, -54.000000)">
+            <g id="label2" sketch:type="MSLayerGroup" transform="translate(9.000000, 56.000000)">
+                <g id="shape" fill="#000000" sketch:type="MSShapeGroup">
+                    <rect id="rectangle" stroke="#979797" filter="url(#filter-1)" x="7.37121212" y="0" width="58.6287879" height="29.1891892"></rect>
+                    <path d="M0.183210784,14.8807631 L4.9185049,0.286168521 L4.9185049,29.4753577 L0.183210784,14.8807631 L0.183210784,14.8807631 Z" id="arrow" filter="url(#filter-2)"></path>
+                </g>
+                <text id="text" sketch:type="MSTextLayer" font-family="Helvetica" font-size="15" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="15.5427557" y="18.8861004">Label</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="92.44" height="54.699" viewBox="0, 0, 92.44, 54.699">
+  <g id="Background">
+    <rect x="0" y="0" width="92.44" height="54.699" fill="#FFFFFF"/>
+  </g>
+  <g id="Background"/>
+  <g id="zoombtnsvg">
+    <g id="zoomin">
+      <g id="zoominicon">
+        <path d="M73.301,25.059 C73.301,29.892 69.383,33.81 64.55,33.81 C59.717,33.81 55.798,29.892 55.798,25.059 C55.798,20.225 59.717,16.307 64.55,16.307 C69.383,16.307 73.301,20.225 73.301,25.059 z" fill-opacity="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/>
+        <path d="M70.692,31.747 L77.951,39.006" fill-opacity="0" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+        <path d="M60.174,25.059 L68.926,25.059" fill-opacity="0" stroke="#000000" stroke-width="2" stroke-miterlimit="10"/>
+        <path d="M64.55,20.683 L64.55,29.434" fill-opacity="0" stroke="#000000" stroke-width="2" stroke-miterlimit="10"/>
+      </g>
+      <g id="zoominbg" opacity="0.07">
+        <path d="M47.787,9.917 L83.652,9.917 L83.652,45.782 L47.787,45.782 L47.787,9.917 z" fill="#161616"/>
+        <path d="M47.787,9.917 L83.652,9.917 L83.652,45.782 L47.787,45.782 L47.787,9.917 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="zoomout">
+      <g id="zoomouticon">
+        <path d="M35.014,25.059 C35.014,29.892 31.096,33.81 26.262,33.81 C21.429,33.81 17.511,29.892 17.511,25.059 C17.511,20.225 21.429,16.307 26.262,16.307 C31.096,16.307 35.014,20.225 35.014,25.059 z" fill-opacity="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/>
+        <path d="M32.404,31.747 L39.663,39.006" fill-opacity="0" stroke="#000000" stroke-width="4" stroke-miterlimit="10"/>
+        <path d="M21.886,25.059 L30.638,25.059" fill-opacity="0" stroke="#000000" stroke-width="2" stroke-miterlimit="10"/>
+      </g>
+      <g id="zoomoutbg" opacity="0.07">
+        <path d="M9.787,9.917 L45.652,9.917 L45.652,45.782 L9.787,45.782 L9.787,9.917 z" fill="#161616"/>
+        <path d="M9.787,9.917 L45.652,9.917 L45.652,45.782 L9.787,45.782 L9.787,9.917 z" fill-opacity="0" stroke="#000000" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

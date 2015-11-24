@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="8px" height="11px" viewBox="0 0 8 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>UrbanLocation</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="UrbanLocation" sketch:type="MSLayerGroup" fill="#1A1918">
+            <path d="M4.3924,0.0653108808 C2.4052,0.0653108808 0.7942,1.67445596 0.7942,3.66296373 C0.7942,5.03658031 1.5754,6.21961658 2.7112,6.82372021 L4.3924,10.8528756 L6.0772,6.82372021 C7.2094,6.21961658 7.9942,5.03658031 7.9942,3.66296373 C7.9942,1.67445596 6.3814,0.0653108808 4.3924,0.0653108808 M4.3924,5.45909326 C3.3988,5.45909326 2.5924,4.65362176 2.5924,3.66296373 C2.5924,2.66870984 3.3988,1.86144041 4.3924,1.86144041 C5.3878,1.86144041 6.1924,2.66870984 6.1924,3.66296373 C6.1924,4.65362176 5.3878,5.45909326 4.3924,5.45909326" id="Fill-2" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

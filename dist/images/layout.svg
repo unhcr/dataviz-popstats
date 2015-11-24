@@ -1,0 +1,608 @@
+<svg width="100%" height="100%" viewBox="0 0 180 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:1.41421;">
+    <g transform="matrix(0.12,0,0,0.12,-0,-0)">
+        <g id="Background">
+            <rect x="0" y="0" width="1500" height="1060" style="fill:#fff;"/>
+        </g>
+        <g id="Layout">
+            <g id="footer">
+                <g transform="matrix(1,0,0,1,20,1052)">
+                    <g id="copyright">
+                        <text x="0px" y="0px" style="font-family:Lato;font-size:12px;fill:#666;">© UNHCR</text>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,80,1052)">
+                    <g id="copyrightYear">
+                        <text x="0px" y="0px" style="font-family:Lato;font-size:12px;fill:#666;">2015</text>
+                    </g>
+                </g>
+            </g>
+            <g id="frame1">
+                <g id="mapcontainer" transform="matrix(1,0,0,0.988373,0,9.18534)">
+                    <rect x="20" y="60" width="1460" height="730" style="fill:#000;fill-opacity:0.2;fill-rule:nonzero;"/>
+                </g>
+                <rect id="yearbuttoncontainer" x="20" y="1005" width="1460" height="25" style="fill:#f00;fill-opacity:0.06;fill-rule:nonzero;"/>
+                <g id="colchartbg" transform="matrix(1,8.60695e-18,1.08055e-17,1.21132,-2.12646e-14,-216.561)">
+                    <rect x="20" y="835" width="1460" height="162.718" style="fill:#fff;fill-rule:nonzero;"/>
+                </g>
+                <g id="timelinecontainer" transform="matrix(1,8.60695e-18,8.60695e-18,0.964859,-1.76619e-14,29.3424)">
+                    <rect x="20" y="835" width="1460" height="162.718" style="fill:#000;fill-opacity:0.2;fill-rule:nonzero;"/>
+                </g>
+                <g id="toggle">
+                    <g id="togglebg">
+                        <path id="oval" d="M263,777.5c-6.3,0 -11.5,-5.2 -11.5,-11.5c0,-6.3 5.2,-11.5 11.5,-11.5l21,0c6.3,0 11.5,5.2 11.5,11.5c0,6.3 -5.2,11.5 -11.5,11.5l-21,0Z" style="fill:#fff;fill-rule:nonzero;"/>
+                        <path d="M284,755c6.1,0 11,4.9 11,11c0,6.1 -4.9,11 -11,11l-21,0c-6.1,0 -11,-4.9 -11,-11c0,-6.1 4.9,-11 11,-11l21,0M284,754l-21,0c-6.6,0 -12,5.4 -12,12c0,6.6 5.4,12 12,12l21,0c6.6,0 12,-5.4 12,-12c0,-6.6 -5.4,-12 -12,-12Z" style="fill:#333;fill-rule:nonzero;"/>
+                    </g>
+                    <path id="circletoggle" d="M271,766c0,4.694 -3.806,8.5 -8.5,8.5c-4.694,0 -8.5,-3.806 -8.5,-8.5c0,-4.694 3.806,-8.5 8.5,-8.5c4.694,0 8.5,3.806 8.5,8.5Z" style="fill:#333;fill-rule:nonzero;"/>
+                    <path id="indtoggle" d="M262.5,766.3c-1.3,0 -2.4,-1.1 -2.4,-2.4c0,-1.3 1.1,-2.4 2.4,-2.4c1.3,0 2.4,1.1 2.4,2.4c0,1.3 -1.1,2.4 -2.4,2.4ZM266.4,769.5c-0.6,-1.2 -1.5,-2.4 -3.7,-2.4l-0.2,0l-0.2,0c-2.2,0 -3.1,1.3 -3.7,2.4c-0.1,0.1 -0.1,-0.4 -0.2,1.6l8.2,0c-0.1,-2 -0.1,-1.4 -0.2,-1.6Z" style="fill:#fff;fill-rule:nonzero;"/>
+                    <path id="pertoggle" d="M283.8,763.7c0,0.3 -0.1,0.5 -0.2,0.8c-0.1,0.2 -0.2,0.4 -0.4,0.6c-0.2,0.2 -0.4,0.3 -0.6,0.4c-0.2,0.1 -0.5,0.1 -0.7,0.1c-0.3,0 -0.5,0 -0.7,-0.1c-0.2,-0.1 -0.4,-0.2 -0.6,-0.4c-0.2,-0.2 -0.3,-0.3 -0.4,-0.6c-0.1,-0.2 -0.1,-0.5 -0.1,-0.8c0,-0.3 0,-0.5 0.1,-0.8c0.1,-0.2 0.2,-0.4 0.4,-0.6c0.2,-0.2 0.4,-0.3 0.6,-0.4c0.2,-0.1 0.5,-0.1 0.7,-0.1c0.3,0 0.5,0 0.7,0.1c0.2,0.1 0.4,0.2 0.6,0.4c0.2,0.2 0.3,0.4 0.4,0.6c0.1,0.2 0.2,0.5 0.2,0.8ZM287,761.8c0.1,-0.1 0.1,-0.1 0.2,-0.2c0.1,0 0.2,-0.1 0.3,-0.1l1.1,0l-6.7,8.8c-0.1,0.1 -0.1,0.1 -0.2,0.2c-0.1,0.1 -0.2,0.1 -0.3,0.1l-1.1,0l6.7,-8.8ZM288.9,768.4c0,0.3 -0.1,0.5 -0.2,0.8c-0.1,0.2 -0.2,0.4 -0.4,0.6c-0.2,0.2 -0.4,0.3 -0.6,0.4c-0.2,0.1 -0.5,0.1 -0.7,0.1c-0.3,0 -0.5,0 -0.7,-0.1c-0.2,-0.1 -0.4,-0.2 -0.6,-0.4c-0.2,-0.2 -0.3,-0.3 -0.4,-0.6c-0.1,-0.2 -0.1,-0.5 -0.1,-0.8c0,-0.3 0,-0.5 0.1,-0.8c0.1,-0.2 0.2,-0.4 0.4,-0.6c0.2,-0.2 0.4,-0.3 0.6,-0.4c0.2,-0.1 0.5,-0.1 0.7,-0.1c0.3,0 0.5,0 0.7,0.1c0.2,0.1 0.4,0.2 0.6,0.4c0.2,0.2 0.3,0.4 0.4,0.6c0.1,0.2 0.2,0.5 0.2,0.8Z" style="fill:#333;fill-rule:nonzero;"/>
+                    <g id="togglehelper">
+                        <g>
+                            <path d="M270.5,742.5l4.441,5l4.441,-5" style="fill:#7e7e7e;fill-rule:nonzero;"/>
+                            <path d="M270.5,742.5l4.441,5l4.441,-5" style="fill:#000;fill-opacity:0;fill-rule:nonzero;stroke-width:1px;stroke:#717171;"/>
+                        </g>
+                        <g id="showvalues" transform="matrix(1,0,0,1,276.906,729.012)">
+                            <g transform="matrix(1,0,0,1,-80.854,-10.072)">
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:13px;fill:#7c7c7c;">switch between percentages</text>
+                            </g>
+                            <g transform="matrix(1,0,0,1,-55.653,5.928)">
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:13px;fill:#7c7c7c;">and absolute values</text>
+                            </g>
+                        </g>
+                    </g>
+                    <path id="togglemask" d="M263,777.5c-6.3,0 -11.5,-5.2 -11.5,-11.5c0,-6.3 5.2,-11.5 11.5,-11.5l21,0c6.3,0 11.5,5.2 11.5,11.5c0,6.3 -5.2,11.5 -11.5,11.5l-21,0Z" style="fill:#fff;fill-opacity:0.00625882;fill-rule:nonzero;"/>
+                </g>
+                <g id="poptypefilters">
+                    <rect x="20" y="790" width="1460" height="30" style="fill:#eee;fill-rule:nonzero;"/>
+                    <g id="refgroup">
+                        <path d="M49.641,804.25c0,4.143 -3.278,7.5 -7.321,7.5c-4.043,0 -7.32,-3.357 -7.32,-7.5c0,-4.142 3.277,-7.5 7.32,-7.5c4.043,0 7.321,3.358 7.321,7.5Z" style="fill:#f8b7b7;fill-rule:nonzero;stroke-width:1px;stroke-linejoin:round;stroke:#f39899;"/>
+                        <g transform="matrix(1,0,0,1,59.401,809)">
+                            <g>
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:14px;fill:#000;">Refugees</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,240.95,809)">
+                            <g id="refval">
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:14px;fill:#000;">0</text>
+                            </g>
+                        </g>
+                        <rect id="ref" x="20" y="790" width="243.333" height="30" style="fill:#fff;fill-opacity:0.0122824;fill-rule:nonzero;"/>
+                    </g>
+                    <g id="asygroup">
+                        <path d="M294.641,804.25c0,4.143 -3.278,7.5 -7.321,7.5c-4.043,0 -7.32,-3.357 -7.32,-7.5c0,-4.142 3.277,-7.5 7.32,-7.5c4.043,0 7.321,3.358 7.321,7.5Z" style="fill:#8496ab;fill-rule:nonzero;stroke-width:1px;stroke-linejoin:round;stroke:#717d8c;"/>
+                        <g transform="matrix(1,0,0,1,304.401,809)">
+                            <g>
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:14px;fill:#000;">Asylum-seekers</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,485.95,809)">
+                            <g id="asyval">
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:14px;fill:#000;">0</text>
+                            </g>
+                        </g>
+                        <rect id="asy" x="263.721" y="790" width="243.333" height="30" style="fill:#fff;fill-opacity:0.0104706;fill-rule:nonzero;"/>
+                    </g>
+                    <g id="idpgroup">
+                        <path d="M534.641,804.25c0,4.143 -3.278,7.5 -7.321,7.5c-4.042,0 -7.32,-3.357 -7.32,-7.5c0,-4.142 3.278,-7.5 7.32,-7.5c4.043,0 7.321,3.358 7.321,7.5Z" style="fill:#a5e0d7;fill-rule:nonzero;stroke-width:1px;stroke-linejoin:round;stroke:#98cac2;"/>
+                        <g transform="matrix(1,0,0,1,544.401,809)">
+                            <g>
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:14px;fill:#000;">IDPs</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,730.95,809)">
+                            <g id="idpval">
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:14px;fill:#000;">0</text>
+                            </g>
+                        </g>
+                        <rect id="idp" x="507.054" y="790" width="243.333" height="30" style="fill:#fff;fill-opacity:0.0104706;fill-rule:nonzero;"/>
+                    </g>
+                    <g id="retgroup">
+                        <path d="M779.641,804.25c0,4.143 -3.278,7.5 -7.321,7.5c-4.043,0 -7.32,-3.357 -7.32,-7.5c0,-4.142 3.277,-7.5 7.32,-7.5c4.043,0 7.321,3.358 7.321,7.5Z" style="fill:#c6c6c6;fill-rule:nonzero;stroke-width:1px;stroke-linejoin:round;stroke:#adadad;"/>
+                        <g transform="matrix(1,0,0,1,789.401,809)">
+                            <g>
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:14px;fill:#000;">Returnees</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,970.95,809)">
+                            <g id="retval">
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:14px;fill:#000;">0</text>
+                            </g>
+                        </g>
+                        <rect id="ret" x="750.387" y="790" width="243.333" height="30" style="fill:#fff;fill-opacity:0.0123059;fill-rule:nonzero;"/>
+                    </g>
+                    <g id="stagroup">
+                        <path d="M1019.64,804.25c0,4.143 -3.278,7.5 -7.321,7.5c-4.043,0 -7.32,-3.357 -7.32,-7.5c0,-4.142 3.277,-7.5 7.32,-7.5c4.043,0 7.321,3.358 7.321,7.5Z" style="fill:#769a8f;fill-opacity:0.6;fill-rule:nonzero;stroke-width:1px;stroke-linejoin:round;stroke:#3a5b51;stroke-opacity:0.6;"/>
+                        <g transform="matrix(1,0,0,1,1029.4,809)">
+                            <g>
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:14px;fill:#000;">Stateless persons</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,1220.95,809)">
+                            <g id="staval">
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:14px;fill:#000;">0</text>
+                            </g>
+                        </g>
+                        <rect id="sta" x="993.72" y="790" width="245.095" height="30" style="fill:#fff;fill-opacity:0.00835294;fill-rule:nonzero;"/>
+                    </g>
+                    <g id="othgroup">
+                        <path d="M1269.64,804.25c0,4.143 -3.278,7.5 -7.321,7.5c-4.043,0 -7.32,-3.357 -7.32,-7.5c0,-4.142 3.277,-7.5 7.32,-7.5c4.043,0 7.321,3.358 7.321,7.5Z" style="fill:#c8aca9;fill-rule:nonzero;stroke-width:1px;stroke-linejoin:round;stroke:#ab827e;"/>
+                        <g transform="matrix(1,0,0,1,1279.4,809)">
+                            <g>
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:14px;fill:#000;">Others</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,1455.95,809)">
+                            <g id="othval">
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:14px;fill:#000;">0</text>
+                            </g>
+                        </g>
+                        <rect id="oth" x="1238.82" y="790" width="243.333" height="30" style="fill:#fff;fill-opacity:0.0104471;fill-rule:nonzero;"/>
+                    </g>
+                    <path d="M263.833,790.5l0,30" style="fill:#000;fill-opacity:0;fill-rule:nonzero;stroke-width:1px;stroke:#666;"/>
+                    <path d="M507.166,790.5l0,30" style="fill:#000;fill-opacity:0;fill-rule:nonzero;stroke-width:1px;stroke:#666;"/>
+                    <path d="M750.5,790.5l0,30" style="fill:#000;fill-opacity:0;fill-rule:nonzero;stroke-width:1px;stroke:#666;"/>
+                    <path d="M993.833,790.5l0,30" style="fill:#000;fill-opacity:0;fill-rule:nonzero;stroke-width:1px;stroke:#666;"/>
+                    <path d="M1239.17,790.5l0,30" style="fill:#000;fill-opacity:0;fill-rule:nonzero;stroke-width:1px;stroke:#666;"/>
+                </g>
+                <g id="selectall">
+                    <g id="selectallbg">
+                        <path d="M318,754l51,0c6.627,0 12,5.373 12,12l0,1c0,6.627 -5.373,12 -12,12l-51,0c-6.627,0 -12,-5.373 -12,-12l0,-1c0,-6.627 5.373,-12 12,-12Z" style="fill:#fff;fill-rule:nonzero;"/>
+                        <path d="M369,754c6.627,0 12,5.373 12,12l0,1c0,6.627 -5.373,12 -12,12l-51,0c-6.627,0 -12,-5.373 -12,-12l0,-1c0,-6.627 5.373,-12 12,-12l51,0ZM369,755l-51,0c-6.075,0 -11,4.925 -11,11l0,1c0,6.075 4.925,11 11,11l51,0c6.075,0 11,-4.925 11,-11l0,-1c0,-6.075 -4.925,-11 -11,-11Z" style="fill:#333;fill-rule:nonzero;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,315.798,771.863)">
+                        <g id="selectAllText">
+                            <text x="0px" y="0px" style="font-family:Lato;font-size:14px;fill:#333;">Select all</text>
+                        </g>
+                    </g>
+                </g>
+                <g id="disclaimer" transform="matrix(1,0,0,1,1128.94,767.161)">
+                    <g transform="matrix(1,0,0,1,-526.686,4.839)">
+                        <text x="0px" y="0px" style="font-family:Lato;font-size:10px;fill:#666;">Historcal country borders from Weidmann, Nils B., Doreen Kuse, and Kristian Skrede Gleditsch. 2010. The Geography of the International System: The CShapes Dataset. International Interactions 36 (1).</text>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-290.831,-11.161)">
+                        <text x="0px" y="0px" style="font-family:Lato;font-size:10px;font-weight:700;fill:#666;">The boundaries and names shown and the designations used on this map do not imply ofﬁcial endorsement or acceptance by the United Nations.</text>
+                    </g>
+                </g>
+                <g id="total">
+                    <g id="totaltext">
+                        <g transform="matrix(1,0,0,1,45,110)">
+                            <g id="totaltop">
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:30px;font-weight:700;fill:#0077c0;">54.9 million</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,45,140)">
+                            <g id="totalsub">
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:20px;fill:#333;">globally/in country name - end of YYYY</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,210,108)">
+                            <g id="totaltoppoc">
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:18px;fill:#333;">persons of concern</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,-197.541,499)">
+                    <g>
+                        <text x="316.724px" y="551.875px" style="font-family:Lato;font-size:10px;font-weight:700;fill:#353535;">Refugees</text>
+                        <text x="359.974px" y="551.875px" style="font-family:Lato;font-size:10px;fill:#353535;">= Refugees, including persons in a refugee-like situation.</text>
+                        <text x="604.734px" y="551.875px" style="font-family:Lato;font-size:10px;font-weight:700;fill:#353535;">IDPs</text>
+                        <text x="627.899px" y="551.875px" style="font-family:Lato;font-size:10px;fill:#353535;">= IDPs protected/assisted by UNHCR, including persons in an IDP-like situation.</text>
+                        <text x="975.399px" y="551.875px" style="font-family:Lato;font-size:10px;font-weight:700;fill:#353535;">Returnees</text>
+                        <text x="1023.61px" y="551.875px" style="font-family:Lato;font-size:10px;fill:#353535;">= Returned refugees, returned IDPs.</text>
+                        <text x="1182.85px" y="551.875px" style="font-family:Lato;font-size:10px;font-weight:700;fill:#353535;">Stateless</text>
+                        <text x="1225.26px" y="551.875px" style="font-family:Lato;font-size:10px;fill:#353535;">= Persons under UNHCR’s statelessness mandate.</text>
+                        <text x="1444.48px" y="551.875px" style="font-family:Lato;font-size:10px;font-weight:700;fill:#353535;">Others</text>
+                        <text x="1477.76px" y="551.875px" style="font-family:Lato;font-size:10px;fill:#353535;">= Others of concern to UNHCR.</text>
+                    </g>
+                </g>
+            </g>
+            <g id="help" transform="matrix(1,0,0,1,-85,5)">
+                <g opacity="0.53">
+                    <rect x="1451.79" y="15.244" width="29" height="29" style="fill:#fff;fill-rule:nonzero;"/>
+                    <g transform="matrix(1,0,0,1,53,4)">
+                        <circle cx="1413.2" cy="25.73" r="11.215" style="fill:#fff;stroke-width:2.5px;stroke-linecap:square;stroke-linejoin:round;stroke:#000;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,74,-7)">
+                        <text x="1386.06px" y="43.542px" style="font-family:Arial;font-size:19.167px;font-weight:700;fill:#000;">?</text>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,1230.97,14.4731)">
+                <text x="101.092px" y="24px" style="font-family:Lato;font-size:12px;fill:#717171;">HELP</text>
+            </g>
+            <g id="maplegend">
+                <clipPath id="_clip1">
+                    <rect x="27.229" y="592.084" width="211.344" height="184.463"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <g opacity="0.82">
+                        <g transform="matrix(1,0,0,1,134.013,686.294)">
+                            <g>
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:12px;fill:#000;">1 million</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,134.013,646.294)">
+                            <g>
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:12px;fill:#000;">5 million</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,134.013,617.294)">
+                            <g>
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:12px;fill:#000;">10 million</text>
+                            </g>
+                        </g>
+                        <path d="M77.802,713.141l54,0" style="fill:#000;fill-opacity:0;fill-rule:nonzero;stroke-width:1px;stroke-dasharray:2,2;stroke:#d3d3d3;"/>
+                        <path d="M77.802,614.141l54,0" style="fill:#000;fill-opacity:0;fill-rule:nonzero;stroke-width:1px;stroke-dasharray:2,2;stroke:#d3d3d3;"/>
+                        <path d="M77.802,643.141l54,0" style="fill:#000;fill-opacity:0;fill-rule:nonzero;stroke-width:1px;stroke-dasharray:2,2;stroke:#d3d3d3;"/>
+                        <path d="M77.802,683.141l54,0" style="fill:#000;fill-opacity:0;fill-rule:nonzero;stroke-width:1px;stroke-dasharray:2,2;stroke:#d3d3d3;"/>
+                        <path d="M78.095,714.04c-27.614,0 -50,-22.386 -50,-50c0,-27.614 22.386,-50 50,-50c27.614,0 50,22.386 50,50c0,27.614 -22.386,50 -50,50Z" style="fill:#000;fill-opacity:0;fill-rule:nonzero;stroke-width:1px;stroke:#000;stroke-opacity:0.62;"/>
+                        <path d="M78.095,714.04c-19.606,0 -35.5,-15.894 -35.5,-35.5c0,-19.606 15.894,-35.5 35.5,-35.5c19.606,0 35.5,15.894 35.5,35.5c0,19.606 -15.894,35.5 -35.5,35.5Z" style="fill:#000;fill-opacity:0;fill-rule:nonzero;stroke-width:1px;stroke:#000;stroke-opacity:0.62;"/>
+                        <path d="M78.095,714.04c-8.56,0 -15.5,-6.94 -15.5,-15.5c0,-8.561 6.94,-15.5 15.5,-15.5c8.561,0 15.5,6.939 15.5,15.5c0,8.56 -6.939,15.5 -15.5,15.5Z" style="fill:#000;fill-opacity:0;fill-rule:nonzero;stroke-width:1px;stroke:#000;stroke-opacity:0.62;"/>
+                        <g transform="matrix(1,0,0,1,134.013,715.294)">
+                            <g>
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:12px;fill:#000;">0</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,28.287,602.486)">
+                            <g>
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:14px;font-weight:700;fill:#000;">Legend</text>
+                            </g>
+                        </g>
+                        <g transform="matrix(1,0,0,1,30,772.5)">
+                            <g id="filtertitle1">
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:19px;font-weight:700;fill:#000;">Filter by population type</text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="poptooltip" transform="matrix(1,0,0,1,0,-4)">
+                <g id="ref_tooltip" transform="matrix(1,0,0,1,-347.031,36.6363)">
+                    <g transform="matrix(1,0,0,1,347.031,-34.6363)">
+                        <path d="M472.085,776.674l-406.54,0l-11.214,15.067l-11.214,-15.067l-14.739,0l0,-87.983l443.707,0l0,87.983Z" style="fill:#fff;stroke-width:1.67px;stroke-miterlimit:4;stroke:#cecece;"/>
+                    </g>
+                    <g transform="matrix(1,-3.51152e-18,-3.46406e-18,1.02804,6.92813e-18,-20.1727)">
+                        <rect x="381.938" y="662.641" width="6.021" height="71.982" style="fill:#f8b8b8;"/>
+                    </g>
+                    <g>
+                        <text x="394.756px" y="670.388px" style="font-family:Lato;font-size:12.5px;font-weight:700;fill:#000;">Refugees</text>
+                        <text x="448.819px" y="670.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">include individuals recognised under the 1951 Convention relating</text>
+                        <text x="394.756px" y="682.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">to the Status of Refugees; its 1967 Protocol; the 1969 OAU Convention</text>
+                        <text x="394.756px" y="695.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">Governing the Speciﬁc Aspects of Refugee Problems in Africa; those</text>
+                        <text x="394.756px" y="707.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">recognised in accordance with the UNHCR Statute; individuals granted</text>
+                        <text x="394.756px" y="720.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">complementary forms of protection; or those enjoying temporary protection.</text>
+                        <text x="394.756px" y="732.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">The refugee population also includes people in a refugee-like situation.</text>
+                    </g>
+                </g>
+                <g id="asy_tooltip" transform="matrix(1,0,0,1,-115.031,36.6363)">
+                    <g transform="matrix(1,0,0,1,115.031,-34.6363)">
+                        <path d="M640.446,776.674l-342.901,0l-11.214,15.067l-11.214,-15.067l-14.739,0l0,-50.307l380.068,0l0,50.307Z" style="fill:#fff;stroke-width:1.67px;stroke-miterlimit:4;stroke:#cecece;"/>
+                    </g>
+                    <g transform="matrix(1,-1.70831e-18,-3.46406e-18,0.500125,6.92813e-18,366.96)">
+                        <rect x="381.938" y="662.641" width="6.021" height="71.982" style="fill:#8597ac;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-1.06581e-13,38)">
+                        <g>
+                            <text x="394.756px" y="670.388px" style="font-family:Lato;font-size:12.5px;font-weight:700;fill:#000;">Asylum-seekers</text>
+                            <text x="486.275px" y="670.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">are individuals who have sought international</text>
+                            <text x="394.756px" y="682.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">protection and whose claims for refugee status have not yet been</text>
+                            <text x="394.756px" y="695.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">determined, irrespective of when they may have been lodged.</text>
+                        </g>
+                    </g>
+                </g>
+                <g id="idp_tooltip" transform="matrix(1,0,0,1,124.969,36.6363)">
+                    <g transform="matrix(1,0,0,1,-124.969,-34.6363)">
+                        <path d="M1076.94,774.077l-537.46,0l-13.147,17.664l-13.146,-17.664l-12.807,0l0,-85.71l576.56,0l0,85.71Z" style="fill:#fff;stroke-width:1.67px;stroke-miterlimit:4;stroke:#cecece;"/>
+                    </g>
+                    <g transform="matrix(0.935359,-1.59788e-18,-7.14661e-18,1.03179,24.6887,-24.3449)">
+                        <rect x="381.938" y="662.641" width="6.021" height="71.982" style="fill:#a6e0d7;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-1.7053e-13,-1.01389)">
+                        <g>
+                            <text x="394.756px" y="670.388px" style="font-family:Lato;font-size:12.5px;font-weight:700;fill:#000;">Internally displaced persons (IDPs)</text>
+                            <text x="589.937px" y="670.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">are people or groups of individuals who have been forced to leave</text>
+                            <text x="394.756px" y="682.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">their homes or places of habitual residence, in particular as a result of, or in order to avoid the effects</text>
+                            <text x="394.756px" y="695.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">of armed conﬂict, situations of generalised violence, violations of human rights, or natural or man-</text>
+                            <text x="394.756px" y="707.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">made disasters, and who have not crossed an international border. For the purposes of UNHCR&apos;s</text>
+                            <text x="394.756px" y="720.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">statistics, this population only includes conﬂict-generated IDPs to whom the Ofﬁce extends</text>
+                            <text x="394.756px" y="732.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">protection and/or assistance. The IDP population also includes people in an IDP-like situation.</text>
+                        </g>
+                    </g>
+                </g>
+                <g id="ret_tooltip" transform="matrix(1,0,0,1,369.969,36.6363)">
+                    <g transform="matrix(1,0,0,1.01991,-369.969,-50.4)">
+                        <path d="M1204.81,776.674l-422.266,0l-11.214,15.067l-11.214,-15.067l-14.739,0l0,-91.685l459.433,0l0,91.685Z" style="fill:#fff;stroke-width:1.65px;stroke-miterlimit:4;stroke:#cecece;"/>
+                    </g>
+                    <g transform="matrix(1,-3.51152e-18,-3.72876e-18,1.10659,-5.68407e-14,-78.8808)">
+                        <rect x="381.938" y="662.641" width="6.021" height="71.982" style="fill:#c7c7c7;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-1.42109e-13,-5.80584)">
+                        <g>
+                            <text x="394.756px" y="670.388px" style="font-family:Lato;font-size:12.5px;font-weight:700;fill:#000;">Returned refugees</text>
+                            <text x="500.981px" y="670.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">are former refugees who have returned to their country of</text>
+                            <text x="394.756px" y="682.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">origin spontaneously or in an organised fashion but are yet to be fully integrated.</text>
+                            <text x="394.756px" y="695.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">Such return would normally only take place in conditions of safety and dignity.</text>
+                            <text x="394.756px" y="716.221px" style="font-family:Lato;font-size:12.5px;font-weight:700;fill:#000;">Returned IDPs</text>
+                            <text x="478.956px" y="716.221px" style="font-family:Lato;font-size:12.5px;fill:#000;">refer to those IDPs who were beneﬁciaries of UNHCR&apos;s</text>
+                            <text x="394.756px" y="728.721px" style="font-family:Lato;font-size:12.5px;fill:#000;">protection and assistance activities and who returned to their areas of origin or</text>
+                            <text x="394.756px" y="741.221px" style="font-family:Lato;font-size:12.5px;fill:#000;">habitual residence during the year.</text>
+                        </g>
+                    </g>
+                </g>
+                <g id="sta_tooltip" transform="matrix(1,0,0,1,601.969,35.6363)">
+                    <g transform="matrix(1,0,0,1.03076,-600.969,-59.2677)">
+                        <path d="M1475.56,779.081l-453.322,0l-10.911,14.66l-10.911,-14.66l-23.042,0l0,-108.265l498.186,0l0,108.265Z" style="fill:#fff;stroke-width:1.64px;stroke-miterlimit:4;stroke:#cecece;"/>
+                    </g>
+                    <g transform="matrix(1,-3.51152e-18,-4.57178e-18,1.35677,1,-259.873)">
+                        <rect x="381.938" y="662.641" width="6.021" height="71.982" style="fill:#a7bdb6;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-2.84217e-14,-22)">
+                        <g>
+                            <text x="394.756px" y="670.388px" style="font-family:Lato;font-size:12.5px;font-weight:700;fill:#000;">Stateless persons</text>
+                            <text x="494.175px" y="670.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">are deﬁned under international law as persons who are not</text>
+                            <text x="394.756px" y="682.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">considered as nationals by any State under the operation of its law. In other words, they</text>
+                            <text x="394.756px" y="695.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">do not possess the nationality of any State. UNHCR statistics refer to persons who fall</text>
+                            <text x="394.756px" y="707.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">under the agency’s statelessness mandate because they are stateless according to this</text>
+                            <text x="394.756px" y="720.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">international deﬁnition, but data from some countries may also include persons with</text>
+                            <text x="394.756px" y="732.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">undetermined nationality. Others of concern refers to individuals who do not</text>
+                            <text x="394.756px" y="745.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">necessarily fall directly into any of the groups above, but to whom UNHCR extends its</text>
+                            <text x="394.756px" y="757.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">protection and/or assistance services, based on humanitarian or other special grounds.</text>
+                        </g>
+                    </g>
+                </g>
+                <g id="oth_tooltip" transform="matrix(1,0,0,1,688.969,36.6363)">
+                    <g transform="matrix(1,0,0,1,-688.969,-34.6363)">
+                        <path d="M1473.32,776.674l-200.775,0l-11.214,15.067l-11.214,-15.067l-14.739,0l0,-87.983l237.942,0l0,87.983Z" style="fill:#fff;stroke-width:1.25px;stroke-miterlimit:4;stroke:#cecece;"/>
+                    </g>
+                    <g transform="matrix(1,-3.51152e-18,-3.46406e-18,1.02804,171,-20.1727)">
+                        <rect x="381.938" y="662.641" width="6.021" height="71.982" style="fill:#c8adaa;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,170,0)">
+                        <g>
+                            <text x="394.756px" y="670.388px" style="font-family:Lato;font-size:12.5px;font-weight:700;fill:#000;">Others of concern</text>
+                            <text x="497.7px" y="670.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">refers to individuals</text>
+                            <text x="394.756px" y="682.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">who do not necessarily fall directly</text>
+                            <text x="394.756px" y="695.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">into any of the groups above, but to</text>
+                            <text x="394.756px" y="707.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">whom UNHCR extends its protection</text>
+                            <text x="394.756px" y="720.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">and/or assistance services, based on</text>
+                            <text x="394.756px" y="732.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">humanitarian or other special grounds.</text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="frame0">
+                <rect x="16.885" y="7.501" width="1468.04" height="1029.1" style="fill:#fff;fill-opacity:0.69;fill-rule:nonzero;"/>
+                <g transform="matrix(0.79323,0,0,0.79323,170.966,172.931)">
+                    <g transform="matrix(1.26067,0,0,1.26067,-281.739,-403.009)">
+                        <text x="608.69px" y="566.492px" style="font-family:Lato;font-size:20.833px;font-weight:700;fill:#0e78be;">UNHCR Statistics - The World in Numbers</text>
+                    </g>
+                    <g transform="matrix(1.26067,0,0,1.26067,-281.739,-158.99)">
+                        <text x="691.941px" y="563.287px" style="font-family:Lato;font-size:16.667px;fill:#0e78be;">CLICK ANYWHERE TO START</text>
+                    </g>
+                    <g transform="matrix(1.26067,0,0,1.26067,-304.806,-481.332)">
+                        <g>
+                            <text x="525.064px" y="668.092px" style="font-family:Lato;font-size:16.667px;fill:#353535;">The number of people displaced due to conﬂict, war, persecution and human rights</text>
+                            <text x="528.647px" y="688.092px" style="font-family:Lato;font-size:16.667px;fill:#353535;">violations has increased signiﬁcantly in recent years. UNHCR’s statistics are a sad</text>
+                            <text x="518.089px" y="708.092px" style="font-family:Lato;font-size:16.667px;fill:#353535;">testimony of this global trend, with the world map on this page clearly visualising the</text>
+                            <text x="531.022px" y="728.092px" style="font-family:Lato;font-size:16.667px;fill:#353535;">increase in displacement over time. It is also evidence of the complexity of forced</text>
+                            <text x="528.622px" y="748.092px" style="font-family:Lato;font-size:16.667px;fill:#353535;">displacement today, with the number and different type of populations UNHCR is</text>
+                            <text x="664.755px" y="768.092px" style="font-family:Lato;font-size:16.667px;fill:#353535;">engaged with, increasing globally each year.</text>
+                        </g>
+                    </g>
+                    <g transform="matrix(1.26067,0,0,1.26067,-83.0693,-346.225)">
+                        <g>
+                            <text x="701.946px" y="296.874px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">Hover over countries to show</text>
+                            <text x="701.946px" y="309.374px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">details. Click on a country to</text>
+                            <text x="701.946px" y="321.874px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">lock the selection.</text>
+                        </g>
+                    </g>
+                    <g transform="matrix(1.26067,0,0,1.26067,-852.228,-350.881)">
+                        <g>
+                            <text x="701.946px" y="296.874px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">Shows the total persons of concern</text>
+                            <text x="701.946px" y="309.374px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">globally (or in the country selected)</text>
+                            <text x="701.946px" y="321.874px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">for a particular year</text>
+                        </g>
+                    </g>
+                    <g transform="matrix(1.26067,0,0,1.26067,-679.673,280.373)">
+                        <g>
+                            <text x="701.946px" y="296.874px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">Switch between percentages</text>
+                            <text x="701.946px" y="309.374px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">and absolute values</text>
+                        </g>
+                    </g>
+                    <g transform="matrix(1.26067,0,0,1.26067,-852.365,501.994)">
+                        <text x="701.946px" y="296.874px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">Click on a population type to ﬁlter</text>
+                    </g>
+                    <g transform="matrix(1.26067,0,0,1.26067,313.747,537.308)">
+                        <text x="701.946px" y="296.874px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">Move the slider to explore previous years</text>
+                    </g>
+                    <g transform="matrix(1.12254,0,0,1.12254,-82.4429,-99.4225)">
+                        <path d="M93.21,119.327c-26.881,0 -49.274,-18.815 -54.202,-44.511" style="fill:none;stroke-width:2.25px;stroke-miterlimit:4;stroke:#f1585d;"/>
+                    </g>
+                    <g transform="matrix(1.12254,0,0,1.12254,-82.4429,-99.4225)">
+                        <path d="M46.393,79.073l-6.941,-2.068l-6.306,3.56l4.854,-16.447l8.393,14.955Z" style="fill:#f1585d;fill-rule:nonzero;"/>
+                    </g>
+                    <g transform="matrix(1.12254,0,0,1.12254,-246.33,-48.9958)">
+                        <path d="M238.21,819.328c-26.881,0 -49.274,-18.816 -54.202,-44.511" style="fill:none;stroke-width:2.25px;stroke-miterlimit:4;stroke:#f1585d;"/>
+                    </g>
+                    <g transform="matrix(1.12254,0,0,1.12254,-246.33,-48.9958)">
+                        <path d="M191.393,779.073l-6.941,-2.068l-6.306,3.559l4.854,-16.447l8.393,14.956Z" style="fill:#f1585d;fill-rule:nonzero;"/>
+                    </g>
+                    <g transform="matrix(1.12254,0,0,1.12254,106.657,-61.6025)">
+                        <path d="M77.21,642.117c-26.881,0 -49.274,18.815 -54.202,44.511" style="fill:none;stroke-width:2.25px;stroke-miterlimit:4;stroke:#f1585d;"/>
+                    </g>
+                    <g transform="matrix(1.12254,0,0,1.12254,106.657,-61.6025)">
+                        <path d="M17.145,680.88l6.307,3.559l6.94,-2.066l-8.392,14.955l-4.855,-16.448Z" style="fill:#f1585d;fill-rule:nonzero;"/>
+                    </g>
+                    <g transform="matrix(1.12254,0,0,1.12254,-69.8362,-187.669)">
+                        <path d="M1397,975.117c26.881,0 49.274,18.815 54.202,44.511" style="fill:none;stroke-width:2.25px;stroke-miterlimit:4;stroke:#f1585d;"/>
+                    </g>
+                    <g transform="matrix(1.12254,0,0,1.12254,-69.8362,-187.669)">
+                        <path d="M1443.82,1015.37l6.941,2.068l6.306,-3.561l-4.854,16.448l-8.393,-14.955Z" style="fill:#f1585d;fill-rule:nonzero;"/>
+                    </g>
+                    <g transform="matrix(1.12254,0,0,1.12254,-103.874,-146.067)">
+                        <path d="M795.21,163.117c-26.881,0 -49.274,18.815 -54.202,44.511" style="fill:none;stroke-width:2.25px;stroke-miterlimit:4;stroke:#f1585d;"/>
+                    </g>
+                    <g transform="matrix(1.12254,0,0,1.12254,-103.874,-146.067)">
+                        <path d="M735.145,201.88l6.307,3.56l6.94,-2.067l-8.392,14.955l-4.855,-16.448Z" style="fill:#f1585d;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+            </g>
+            <g id="popfilterhover">
+                <g id="refhover" transform="matrix(0.993843,-3.5197e-18,-3.54903e-18,1,0.859769,-4.81731)">
+                    <path d="M20.265,824.817l243.499,0" style="fill:#fff;stroke-width:1.67px;stroke-linecap:square;stroke-linejoin:round;stroke:#e0e0e0;"/>
+                </g>
+                <g id="asyhover" transform="matrix(0.993843,-3.5197e-18,-3.54903e-18,1,243.86,-4.81731)">
+                    <path d="M20.265,824.817l243.499,0" style="fill:#fff;stroke-width:1.67px;stroke-linecap:square;stroke-linejoin:round;stroke:#e0e0e0;"/>
+                </g>
+                <g id="idphover" transform="matrix(0.993843,-3.5197e-18,-3.54903e-18,1,486.86,-4.81731)">
+                    <path d="M20.265,824.817l243.499,0" style="fill:#fff;stroke-width:1.67px;stroke-linecap:square;stroke-linejoin:round;stroke:#e0e0e0;"/>
+                </g>
+                <g id="rethover" transform="matrix(0.993843,-3.5197e-18,-3.54903e-18,1,729.86,-4.81731)">
+                    <path d="M20.265,824.817l243.499,0" style="fill:#fff;stroke-width:1.67px;stroke-linecap:square;stroke-linejoin:round;stroke:#e0e0e0;"/>
+                </g>
+                <g id="stahover" transform="matrix(0.993843,-3.5197e-18,-3.54903e-18,1,974.86,-4.81731)">
+                    <path d="M20.265,824.817l243.499,0" style="fill:#fff;stroke-width:1.67px;stroke-linecap:square;stroke-linejoin:round;stroke:#e0e0e0;"/>
+                </g>
+                <g id="othhover" transform="matrix(0.993843,-3.5197e-18,-3.54903e-18,1,1218.86,-4.81731)">
+                    <path d="M20.265,824.817l243.499,0" style="fill:#fff;stroke-width:1.67px;stroke-linecap:square;stroke-linejoin:round;stroke:#e0e0e0;"/>
+                </g>
+            </g>
+            <g id="header">
+                <g transform="matrix(1,0,0,1,1,3)">
+                    <g transform="matrix(1,0,0,1,19.0518,12.1465)">
+                        <text id="header1" x="0px" y="17.465px" style="font-family:Lato;font-size:23.333px;font-weight:900;fill:#000;">UNHCR STATISTICS</text>
+                    </g>
+                    <g transform="matrix(1,0,0,1,19.0518,38.1465)">
+                        <text id="header2" x="0px" y="11.145px" style="font-family:Lato;font-size:15px;font-weight:700;fill:#000;">The World in Numbers</text>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,1428.72,8.65839)">
+                    <g id="banner">
+                        <g>
+                            <clipPath id="_clip2">
+                                <rect x="0" y="0" width="49.008" height="53.451"/>
+                            </clipPath>
+                            <g clip-path="url(#_clip2)">
+                                <path d="M8.502,44.3c0,2.586 -1.397,3.826 -4.243,3.826c-2.848,0 -4.258,-1.24 -4.258,-3.826l0,-5.719l2.873,0l0,5.079c0,0.953 0,2.142 1.397,2.142c1.359,0 1.359,-1.189 1.359,-2.142l0,-5.079l2.872,0l0,5.719" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M10.226,38.581l2.937,0l2.717,4.987l0.025,0l0,-4.987l2.716,0l0,9.322l-2.794,0l-2.859,-5.091l-0.026,0l0,5.091l-2.716,0l0,-9.322Z" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M20.385,38.581l2.873,0l0,3.238l2.69,0l0,-3.238l2.872,0l0,9.322l-2.872,0l0,-3.695l-2.69,0l0,3.695l-2.873,0l0,-9.322Z" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M36.172,42.055c-0.052,-0.34 -0.314,-1.371 -1.503,-1.371c-1.344,0 -1.775,1.305 -1.775,2.559c0,1.253 0.431,2.56 1.775,2.56c0.968,0 1.346,-0.68 1.516,-1.554l2.82,0c0,1.879 -1.528,3.878 -4.257,3.878c-3.016,0 -4.727,-2.129 -4.727,-4.884c0,-2.938 1.855,-4.883 4.727,-4.883c2.559,0.012 3.971,1.358 4.218,3.695l-2.794,0" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M40.206,47.904l2.873,0l0,-3.251l1.529,0c1.135,0 1.213,0.928 1.292,1.816c0.038,0.483 0.09,0.966 0.235,1.435l2.873,0c-0.262,-0.431 -0.274,-1.54 -0.314,-1.997c-0.105,-1.162 -0.587,-2.024 -1.371,-2.325c0.953,-0.352 1.397,-1.37 1.397,-2.337c0,-1.763 -1.411,-2.663 -3.042,-2.663l-5.472,0l0,9.322M43.079,40.801l1.345,0c1.097,0 1.424,0.339 1.424,0.928c0,0.834 -0.732,0.926 -1.267,0.926l-1.502,0l0,-1.854Z" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M0.936,50.047l-0.936,0l0,-0.578l2.559,0l0,0.578l-0.936,0l0,2.546l-0.687,0l0,-2.546Z" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M2.774,49.469l0.622,0l0,1.177l0.012,0c0.158,-0.254 0.429,-0.376 0.661,-0.376c0.661,0 0.827,0.372 0.827,0.932l0,1.391l-0.622,0l0,-1.278c0,-0.372 -0.108,-0.555 -0.397,-0.555c-0.337,0 -0.481,0.188 -0.481,0.647l0,1.186l-0.622,0l0,-3.124" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M6.794,51.219c-0.057,-0.315 -0.193,-0.481 -0.494,-0.481c-0.394,0 -0.508,0.306 -0.516,0.481l1.01,0M5.784,51.612c0.017,0.395 0.209,0.574 0.555,0.574c0.25,0 0.451,-0.153 0.49,-0.294l0.547,0c-0.175,0.535 -0.547,0.762 -1.059,0.762c-0.712,0 -1.155,-0.49 -1.155,-1.19c0,-0.678 0.469,-1.194 1.155,-1.194c0.77,0 1.142,0.647 1.099,1.342l-1.632,0Z" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M11.45,51.412c0,0.844 -0.499,1.255 -1.334,1.255c-0.84,0 -1.331,-0.406 -1.331,-1.255l0,-1.943l0.687,0l0,1.943c0,0.341 0.088,0.678 0.644,0.678c0.49,0 0.647,-0.215 0.647,-0.678l0,-1.943l0.687,0l0,1.943" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M11.91,49.469l0.683,0l1.303,2.096l0.008,0l0.001,-2.096l0.643,0l0,3.124l-0.687,0l-1.3,-2.091l-0.008,0l0,2.091l-0.643,0l0,-3.124Z" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M16.044,52.593l0.687,0l0,-1.221l0.687,0c0.345,0 0.472,0.144 0.52,0.472c0.035,0.25 0.027,0.552 0.11,0.749l0.687,0c-0.123,-0.176 -0.118,-0.543 -0.131,-0.74c-0.022,-0.315 -0.118,-0.643 -0.456,-0.73l0,-0.009c0.346,-0.14 0.495,-0.416 0.495,-0.783c0,-0.472 -0.354,-0.862 -0.915,-0.862l-1.684,0l0,3.124M16.731,50.003l0.752,0c0.306,0 0.473,0.131 0.473,0.433c0,0.315 -0.167,0.446 -0.473,0.446l-0.752,0l0,-0.879Z" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M21.202,51.613c0.044,-0.696 -0.328,-1.343 -1.098,-1.343c-0.687,0 -1.155,0.516 -1.155,1.194c0,0.701 0.442,1.191 1.155,1.191c0.512,0 0.883,-0.228 1.059,-0.762l-0.547,0c-0.04,0.14 -0.241,0.293 -0.49,0.293c-0.345,0 -0.538,-0.179 -0.556,-0.573l1.632,0M19.57,51.22c0.009,-0.175 0.122,-0.482 0.517,-0.482c0.301,0 0.437,0.166 0.494,0.482l-1.011,0Z" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M21.612,50.746l-0.372,0l0,-0.415l0.372,0l0,-0.175c0,-0.398 0.249,-0.687 0.757,-0.687c0.109,0 0.223,0.013 0.327,0.018l0,0.463c-0.073,-0.008 -0.148,-0.013 -0.227,-0.013c-0.166,0 -0.236,0.07 -0.236,0.258l0,0.136l0.429,0l0,0.415l-0.429,0l0,1.847l-0.621,0l0,-1.847" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M24.976,52.593l-0.591,0l0,-0.315l-0.013,0c-0.158,0.253 -0.429,0.376 -0.691,0.376c-0.661,0 -0.827,-0.372 -0.827,-0.932l0,-1.391l0.621,0l0,1.277c0,0.372 0.109,0.556 0.398,0.556c0.337,0 0.481,-0.188 0.481,-0.648l0,-1.185l0.622,0l0,2.262" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M27.527,50.331l-0.591,0l0,0.302l-0.008,0c-0.149,-0.263 -0.376,-0.363 -0.674,-0.363c-0.634,0 -0.971,0.533 -0.971,1.12c0,0.621 0.288,1.138 0.967,1.138c0.271,0 0.542,-0.115 0.678,-0.351l0.008,0l0,0.298c0.005,0.324 -0.153,0.56 -0.498,0.56c-0.219,0 -0.407,-0.079 -0.464,-0.311l-0.617,0c0.03,0.516 0.551,0.727 0.998,0.727c1.041,0 1.172,-0.631 1.172,-1.003l0,-2.117M26.407,52.059c-0.381,0 -0.503,-0.354 -0.503,-0.678c0,-0.336 0.153,-0.643 0.503,-0.643c0.403,0 0.529,0.328 0.529,0.695c0,0.324 -0.174,0.626 -0.529,0.626" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M30.091,51.613c0.043,-0.696 -0.328,-1.343 -1.099,-1.343c-0.686,0 -1.155,0.516 -1.155,1.194c0,0.701 0.443,1.191 1.155,1.191c0.513,0 0.884,-0.228 1.059,-0.762l-0.546,0c-0.04,0.14 -0.241,0.293 -0.491,0.293c-0.345,0 -0.538,-0.179 -0.555,-0.573l1.632,0M28.459,51.22c0.008,-0.175 0.122,-0.482 0.516,-0.482c0.302,0 0.438,0.166 0.494,0.482l-1.01,0Z" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M32.523,51.613c0.044,-0.696 -0.328,-1.343 -1.098,-1.343c-0.687,0 -1.155,0.516 -1.155,1.194c0,0.701 0.442,1.191 1.155,1.191c0.512,0 0.883,-0.228 1.059,-0.762l-0.547,0c-0.039,0.14 -0.241,0.293 -0.49,0.293c-0.346,0 -0.538,-0.179 -0.556,-0.573l1.632,0M30.891,51.22c0.009,-0.175 0.122,-0.482 0.517,-0.482c0.301,0 0.438,0.166 0.494,0.482l-1.011,0Z" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M33.84,52.593l0.695,0l0.246,-0.696l1.168,0l0.236,0.696l0.714,0l-1.169,-3.124l-0.704,0l-1.186,3.124ZM35.367,50.239l0.009,0l0.393,1.146l-0.809,0l0.407,-1.146Z" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M39.182,50.331l-0.59,0l0,0.302l-0.009,0c-0.149,-0.263 -0.377,-0.363 -0.674,-0.363c-0.635,0 -0.972,0.533 -0.972,1.12c0,0.621 0.289,1.138 0.967,1.138c0.271,0 0.543,-0.115 0.679,-0.351l0.009,0l0,0.298c0.004,0.324 -0.154,0.56 -0.499,0.56c-0.219,0 -0.407,-0.079 -0.464,-0.311l-0.617,0c0.031,0.516 0.552,0.727 0.997,0.727c1.041,0 1.173,-0.631 1.173,-1.003l0,-2.117M38.062,52.059c-0.381,0 -0.503,-0.354 -0.503,-0.678c0,-0.336 0.153,-0.643 0.503,-0.643c0.403,0 0.53,0.328 0.53,0.695c0,0.324 -0.176,0.626 -0.53,0.626" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M41.746,51.613c0.043,-0.696 -0.328,-1.343 -1.098,-1.343c-0.687,0 -1.155,0.516 -1.155,1.194c0,0.701 0.441,1.191 1.155,1.191c0.512,0 0.884,-0.228 1.058,-0.762l-0.546,0c-0.04,0.14 -0.241,0.293 -0.49,0.293c-0.346,0 -0.539,-0.179 -0.556,-0.573l1.632,0M40.114,51.22c0.008,-0.175 0.123,-0.482 0.516,-0.482c0.302,0 0.438,0.166 0.495,0.482l-1.011,0Z" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M42.017,50.331l0.591,0l0,0.315l0.013,0c0.158,-0.254 0.429,-0.376 0.691,-0.376c0.66,0 0.827,0.372 0.827,0.932l0,1.391l-0.622,0l0,-1.278c0,-0.372 -0.109,-0.555 -0.397,-0.555c-0.337,0 -0.482,0.188 -0.482,0.647l0,1.186l-0.621,0l0,-2.262" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M46.055,51.128c-0.039,-0.254 -0.201,-0.389 -0.459,-0.389c-0.398,0 -0.529,0.402 -0.529,0.734c0,0.324 0.126,0.713 0.515,0.713c0.289,0 0.456,-0.183 0.495,-0.459l0.6,0c-0.079,0.6 -0.495,0.928 -1.09,0.928c-0.682,0 -1.142,-0.482 -1.142,-1.16c0,-0.704 0.42,-1.224 1.155,-1.224c0.534,0 1.024,0.279 1.063,0.857l-0.608,0" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M48.063,52.877c-0.136,0.363 -0.35,0.512 -0.779,0.512c-0.127,0 -0.254,-0.008 -0.381,-0.021l0,-0.513c0.119,0.009 0.241,0.027 0.364,0.022c0.213,-0.022 0.284,-0.245 0.213,-0.424l-0.795,-2.122l0.665,0l0.512,1.549l0.009,0l0.494,-1.549l0.643,0l-0.945,2.546" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M25.748,25.367c0.445,0 0.388,-0.252 0.388,-0.721l0,-2.28c0,-0.471 -0.047,-0.62 0.224,-0.62c0.941,0 1.199,-0.086 1.199,-0.924l0,-8.469c0,-2.307 -1.635,-1.927 -2.098,-2.769c-0.656,-1.139 1.225,-1.139 0.542,-3.61c-0.173,-0.558 -0.612,-0.905 -1.462,-0.905c-0.849,0 -1.29,0.347 -1.465,0.905c-0.681,2.471 1.199,2.471 0.544,3.61c-0.463,0.842 -2.097,0.462 -2.097,2.769l0,8.469c0,0.838 0.255,0.924 1.199,0.924c0.267,0 0.223,0.149 0.223,0.62l0,2.28c0,0.469 -0.055,0.721 0.391,0.721l2.412,0" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M18.302,6.988c-0.837,0.887 -2.16,2.956 -1.297,4.677c1.755,0.672 1.621,-5.537 3.807,-5.43c1.079,0.995 -0.324,3.924 -0.756,5.216c-0.541,1.585 -0.971,4.918 -1.997,6.53c-0.863,1.344 -0.216,5.564 -0.487,7.016c-0.727,0.723 -2.699,0.213 -3.536,0.079c0,-1.666 -0.216,-2.982 -0.486,-5.643c-0.026,-0.537 -0.594,-8.763 -0.135,-9.757c0.945,-2.07 6.1,-6.021 6.802,-6.774c0.62,-0.671 2.806,-2.902 3.645,-2.902c0.591,0.403 0.242,1.343 0.107,1.72c-0.836,2.069 -4.454,4.112 -5.667,5.268" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M30.878,6.988c0.809,0.887 2.132,2.956 1.294,4.677c-1.779,0.672 -1.644,-5.537 -3.831,-5.43c-1.051,0.995 0.351,3.924 0.783,5.216c0.54,1.585 0.972,4.918 1.997,6.53c0.837,1.344 0.215,5.564 0.458,7.016c0.754,0.723 2.7,0.213 3.561,0.079c-0.001,-1.666 0.19,-2.982 0.459,-5.643c0.055,-0.537 0.621,-8.763 0.163,-9.757c-0.944,-2.07 -6.098,-6.021 -6.799,-6.774c-0.648,-0.671 -2.808,-2.902 -3.645,-2.902c-0.62,0.403 -0.244,1.343 -0.108,1.72c0.837,2.069 4.454,4.112 5.668,5.268" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M10.803,4.202c-0.461,0.43 -1.489,0.727 -2.191,1.669c-0.271,-0.511 0.432,-1.75 1.269,-2.477c0.623,-0.513 1.841,-1.347 2.191,-1.428c0.272,0.62 -0.702,1.563 -1.269,2.236" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M9.369,7.567c-0.784,0.728 -1.622,1.025 -2.706,2.344c-0.458,-1.589 -0.35,-2.99 -0.135,-3.933c0.38,-1.238 1.002,-2.612 2.057,-3.043c-0.216,0.7 -0.569,1.671 -0.651,2.99c-0.458,1.805 -0.73,1.859 -0.62,2.1c0.108,0 0.702,-0.942 1.432,-1.669c0.867,-0.861 1.947,-1.051 2.651,-1.561c-0.109,0.35 -0.73,1.453 -2.028,2.772" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M5.554,15.028c-1.054,-1.885 -1.162,-3.259 -1.244,-4.849c0.056,-1.103 0.596,-3.662 1.407,-4.038c-0.242,2.315 0.38,2.531 0.136,4.443c0,0.107 -0.272,2.1 -0.272,2.208c0.325,-0.053 0.029,-1.831 3.732,-4.389c-0.81,1.401 -0.433,1.831 -1.891,3.689c-1.705,1.67 -1.947,3.313 -1.868,2.936" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M7.043,16.805c-0.785,1.131 -0.651,1.698 -0.838,2.235c-1.868,-1.078 -3.976,-5.359 -3.192,-7.486c0.485,1.616 1.162,1.966 1.649,3.312c0.839,2.021 0.704,2.64 1.244,3.096c-0.108,-1.049 0.244,-2.288 0.596,-3.204c0.514,-0.78 0.92,-1.805 1.299,-2.155c0.405,1.482 0.107,2.695 -0.758,4.202" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M8.72,20.468c0,1.643 -0.298,2.37 -0.433,3.582c-3.219,-1.05 -4.897,-4.713 -4.897,-6.517c0.976,2.208 2.408,2.181 4.276,5.305c0.162,-1.184 -0.326,-0.295 -0.38,-2.531c0.054,-2.344 0.542,-2.425 0.622,-3.878c0.595,0.646 0.812,3.232 0.812,4.039" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M11.397,25.127c0.244,1.212 0.351,2.64 0.539,3.691c-1.836,-0.674 -2.298,-0.164 -4.488,-1.536c-1,-0.539 -2.786,-2.801 -2.676,-4.417c2.163,2.397 2.542,2.128 3.597,3.016c0.972,0.781 1.755,1.94 2.461,1.778c0.052,-0.646 -1.596,-2.047 -1.38,-6.087c0.431,0.458 1.621,2.289 1.947,3.555" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M15.047,28.144c0.569,0.808 0.434,1.157 1.894,2.828c-0.352,0.161 -2.433,0.699 -3.815,0.754c-0.916,0 -4.163,-0.862 -5.244,-3.072c1.865,0.999 1.892,0.755 4.381,1.294c1.785,0.403 3.056,0.969 3.543,0.916c-0.107,-0.242 -1.487,-0.809 -2.433,-1.993c-0.949,-1.266 -0.733,-2.694 -1.571,-3.744c0.568,-0.162 2.785,2.424 3.245,3.017" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M38.224,4.202c0.434,0.43 1.489,0.727 2.164,1.669c0.298,-0.511 -0.432,-1.75 -1.269,-2.477c-0.594,-0.513 -1.813,-1.347 -2.193,-1.428c-0.271,0.62 0.704,1.563 1.298,2.236" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M39.657,7.567c0.758,0.728 1.595,1.025 2.678,2.344c0.46,-1.589 0.351,-2.99 0.136,-3.933c-0.352,-1.238 -1.001,-2.612 -2.056,-3.043c0.244,0.7 0.567,1.671 0.649,2.99c0.459,1.805 0.731,1.859 0.622,2.1c-0.108,0 -0.704,-0.942 -1.434,-1.669c-0.838,-0.861 -1.92,-1.051 -2.65,-1.561c0.109,0.35 0.757,1.453 2.055,2.772" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M43.446,15.028c1.08,-1.885 1.161,-3.259 1.242,-4.849c-0.054,-1.103 -0.594,-3.662 -1.378,-4.038c0.215,2.315 -0.407,2.531 -0.137,4.443c0,0.107 0.244,2.1 0.244,2.208c-0.297,-0.053 -0.028,-1.831 -3.705,-4.389c0.784,1.401 0.405,1.831 1.866,3.689c1.732,1.67 1.947,3.313 1.868,2.936" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M41.984,16.805c0.758,1.131 0.621,1.698 0.812,2.235c1.866,-1.078 4.002,-5.359 3.191,-7.486c-0.46,1.616 -1.164,1.966 -1.623,3.312c-0.865,2.021 -0.73,2.64 -1.243,3.096c0.107,-1.049 -0.271,-2.288 -0.622,-3.204c-0.487,-0.78 -0.92,-1.805 -1.299,-2.155c-0.379,1.482 -0.108,2.695 0.784,4.202" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M40.279,20.468c0,1.643 0.325,2.37 0.461,3.582c3.192,-1.05 4.895,-4.713 4.895,-6.517c-1.001,2.208 -2.408,2.181 -4.3,5.305c-0.162,-1.184 0.324,-0.295 0.379,-2.531c-0.055,-2.344 -0.541,-2.425 -0.622,-3.878c-0.595,0.646 -0.813,3.232 -0.813,4.039" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M37.603,25.127c-0.244,1.212 -0.324,2.64 -0.514,3.691c1.813,-0.674 2.272,-0.164 4.463,-1.536c1,-0.539 2.812,-2.801 2.705,-4.417c-2.165,2.397 -2.57,2.128 -3.597,3.016c-0.974,0.781 -1.785,1.94 -2.49,1.778c-0.053,-0.646 1.597,-2.047 1.408,-6.087c-0.459,0.458 -1.65,2.289 -1.975,3.555" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M33.951,28.144c-0.54,0.808 -0.407,1.157 -1.893,2.828c0.379,0.161 2.433,0.699 3.841,0.754c0.892,0 4.137,-0.862 5.218,-3.072c-1.864,0.999 -1.892,0.755 -4.38,1.294c-1.786,0.403 -3.03,0.969 -3.541,0.916c0.106,-0.242 1.513,-0.809 2.432,-1.993c0.947,-1.266 0.731,-2.694 1.597,-3.744c-0.596,-0.162 -2.813,2.424 -3.274,3.017" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M19.888,35.738l-0.539,-0.27c0,0 3.435,-4.174 9.331,-3.851c5.893,0.324 5.488,1.698 8.652,1.483c0.351,-0.028 -0.27,0.429 -0.27,0.429c0,0 -3.082,1.184 -6.896,-0.108c-3.787,-1.292 -6.248,-2.073 -10.278,2.317" style="fill:#007ac2;fill-rule:nonzero;"/>
+                                <path d="M29.217,35.738l0.543,-0.27c0,0 -3.408,-4.174 -9.305,-3.851c-5.922,0.324 -5.516,1.698 -8.68,1.483c-0.351,-0.028 0.271,0.429 0.271,0.429c0,0 3.083,1.184 6.898,-0.108c3.811,-1.292 6.273,-2.073 10.273,2.317" style="fill:#007ac2;fill-rule:nonzero;"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="socialmedia" transform="matrix(1,0,0,1,0,-2)">
+                <g id="facebook">
+                    <g transform="matrix(1,0,0,1,939.966,17.4731)">
+                        <path d="M164.928,0l1,0c9.665,0 17.5,7.835 17.5,17.5l0,1c0,9.665 -7.835,17.5 -17.5,17.5l-1,0c-9.665,0 -17.5,-7.835 -17.5,-17.5l0,-1c0,-9.665 7.835,-17.5 17.5,-17.5Z" style="fill:#969696;fill-rule:nonzero;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,939.966,17.4731)">
+                        <path d="M164.694,10.366c0.088,-0.053 0.183,-0.099 0.286,-0.137c0.096,-0.038 0.203,-0.073 0.322,-0.103l0.656,-0.126l0.429,0l3.029,0.229l0.012,0l-0.31,2.699l-0.012,0l-1.67,-0.172l-0.047,0l-0.167,0.023l-0.06,0.023l-0.19,0.092c-0.04,0.007 -0.072,0.026 -0.096,0.057l-0.143,0.148c-0.032,0.039 -0.06,0.084 -0.083,0.138c-0.024,0.045 -0.044,0.095 -0.06,0.148c-0.016,0.054 -0.028,0.111 -0.036,0.172c-0.008,0.053 -0.012,0.11 -0.012,0.171l0.024,1.693l2.456,0.023l-0.358,2.676l-2.122,0.08l0,7.788l-0.012,0.012l-3.314,0l0,-7.868l-1.788,0l0,-2.688l1.716,0l0,-0.023l0.012,-0.034l0.06,-2.871l0.024,-0.16l0,-0.08l0.024,-0.08c0.007,-0.061 0.023,-0.118 0.047,-0.172c0.016,-0.053 0.04,-0.103 0.072,-0.148c0.032,-0.115 0.075,-0.218 0.131,-0.309c0.048,-0.099 0.107,-0.195 0.179,-0.286c0.055,-0.084 0.123,-0.164 0.202,-0.24c0.072,-0.084 0.147,-0.16 0.227,-0.229l0,-0.011l0.572,-0.435Z" style="fill:#fff;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+                <g id="twitter">
+                    <g transform="matrix(1,0,0,1,939.966,17.4731)">
+                        <path d="M204.772,0l1,0c9.665,0 17.5,7.835 17.5,17.5l0,1c0,9.665 -7.835,17.5 -17.5,17.5l-1,0c-9.665,0 -17.5,-7.835 -17.5,-17.5l0,-1c0,-9.665 7.835,-17.5 17.5,-17.5Z" style="fill:#969696;fill-rule:nonzero;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,939.966,17.4731)">
+                        <path d="M213.272,13.539c-0.589,0.261 -1.222,0.437 -1.886,0.517c0.678,-0.407 1.198,-1.05 1.444,-1.816c-0.635,0.376 -1.337,0.649 -2.085,0.796c-0.599,-0.637 -1.452,-1.036 -2.396,-1.036c-1.813,0 -3.283,1.469 -3.283,3.282c0,0.257 0.029,0.507 0.085,0.748c-2.728,-0.137 -5.147,-1.444 -6.766,-3.429c-0.282,0.484 -0.444,1.048 -0.444,1.65c0,1.138 0.58,2.143 1.46,2.731c-0.538,-0.017 -1.044,-0.164 -1.486,-0.41c-0.001,0.013 -0.001,0.027 -0.001,0.041c0,1.59 1.132,2.917 2.633,3.218c-0.275,0.075 -0.565,0.115 -0.864,0.115c-0.212,0 -0.418,-0.02 -0.618,-0.059c0.418,1.304 1.63,2.253 3.066,2.279c-1.123,0.881 -2.538,1.405 -4.076,1.405c-0.265,0 -0.527,-0.015 -0.783,-0.046c1.452,0.932 3.178,1.475 5.031,1.475c6.038,0 9.34,-5.001 9.34,-9.338c0,-0.142 -0.003,-0.283 -0.009,-0.424c0.641,-0.463 1.197,-1.041 1.638,-1.699Z" style="fill:#fff;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+                <g id="googleplus">
+                    <g transform="matrix(1,0,0,1,939.966,17.4731)">
+                        <path d="M284.46,0l1,0c9.665,0 17.5,7.835 17.5,17.5l0,1c0,9.665 -7.835,17.5 -17.5,17.5l-1,0c-9.665,0 -17.5,-7.835 -17.5,-17.5l0,-1c0,-9.665 7.835,-17.5 17.5,-17.5Z" style="fill:#969696;fill-rule:nonzero;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,939.966,17.4731)">
+                        <path d="M286.149,11c0.145,0 0.272,0.098 0.317,0.241c0.045,0.144 -0.004,0.301 -0.122,0.389c0,0 -0.949,0.718 -0.949,0.718c-0.057,0.043 -0.125,0.066 -0.196,0.066l-0.34,0c0.439,0.549 0.696,1.33 0.696,2.21c0,0.97 -0.47,1.889 -1.326,2.588c-0.661,0.537 -0.687,0.684 -0.687,0.992c0.008,0.169 0.469,0.719 0.977,1.094c1.183,0.873 1.624,1.73 1.624,3.162c0,1.492 -1.087,2.785 -2.77,3.294c-0.539,0.163 -1.123,0.246 -1.735,0.246c-0.681,0 -1.337,-0.082 -1.948,-0.243c-1.182,-0.312 -2.058,-0.902 -2.465,-1.663c-0.176,-0.329 -0.265,-0.679 -0.266,-1.044c0.001,-0.374 0.087,-0.753 0.255,-1.128c0.649,-1.442 2.357,-2.411 4.249,-2.411c0.019,0 0.037,0 0.055,0c-0.154,-0.282 -0.229,-0.574 -0.229,-0.883c0,-0.153 0.019,-0.309 0.058,-0.467c-1.985,-0.048 -3.47,-1.565 -3.47,-3.565c0,-1.412 1.082,-2.788 2.628,-3.344c0.464,-0.167 0.935,-0.252 1.4,-0.252l4.244,0ZM281.871,20.62c-1.445,0 -2.713,0.913 -2.713,1.955c0,1.133 1.086,2.02 2.472,2.02c1.828,0 2.755,-0.657 2.755,-1.954c0,-0.123 -0.015,-0.25 -0.044,-0.377c-0.123,-0.504 -0.565,-0.819 -1.234,-1.295c-0.092,-0.065 -0.188,-0.133 -0.287,-0.204c-0.289,-0.092 -0.596,-0.141 -0.91,-0.145c0,0 -0.039,0 -0.039,0ZM281.327,12.324c-0.332,0 -0.628,0.142 -0.854,0.411c-0.349,0.416 -0.497,1.075 -0.405,1.807c0.165,1.311 1.081,2.444 2,2.473l0.016,0c0.345,0 0.637,-0.142 0.863,-0.412c0.354,-0.421 0.511,-1.112 0.418,-1.846c-0.165,-1.313 -1.063,-2.404 -2.001,-2.432c0,0 -0.037,-0.001 -0.037,-0.001ZM289.88,14.225c0.184,0 0.334,0.156 0.333,0.348l0,2.517c0.001,0 2.413,0 2.413,0c0.184,0 0.334,0.157 0.334,0.349l0,0.717c0,0.193 -0.15,0.348 -0.334,0.348l-2.413,0c0.001,0 0.001,2.518 0,2.518c0.001,0.193 -0.149,0.349 -0.333,0.349l-0.687,0c-0.184,0 -0.334,-0.156 -0.334,-0.349l0,-2.518c0,0 -2.412,0 -2.412,0c-0.184,0 -0.334,-0.155 -0.334,-0.348l0,-0.717c0,-0.192 0.15,-0.349 0.334,-0.349l2.412,0c0,0 0,-2.517 0,-2.517c0,-0.192 0.15,-0.348 0.334,-0.348l0.687,0Z" style="fill:#f2f2f2;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+                <g id="pinterest">
+                    <g transform="matrix(1,0,0,1,939.966,17.4731)">
+                        <path d="M244.616,0l1,0c9.665,0 17.5,7.835 17.5,17.5l0,1c0,9.665 -7.835,17.5 -17.5,17.5l-1,0c-9.665,0 -17.5,-7.835 -17.5,-17.5l0,-1c0,-9.665 7.835,-17.5 17.5,-17.5Z" style="fill:#969696;fill-rule:nonzero;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,939.966,17.4731)">
+                        <path d="M245.479,10c-4.23,0 -6.363,3.124 -6.363,5.729c0,1.577 0.579,2.98 1.823,3.503c0.204,0.086 0.386,0.003 0.446,-0.229c0.041,-0.161 0.138,-0.567 0.182,-0.736c0.059,-0.23 0.036,-0.311 -0.129,-0.511c-0.358,-0.436 -0.587,-1 -0.587,-1.799c0,-2.317 1.683,-4.392 4.383,-4.392c2.391,0 3.705,1.505 3.705,3.514c0,2.644 -1.136,4.877 -2.823,4.877c-0.931,0 -1.628,-0.794 -1.405,-1.767c0.268,-1.162 0.786,-2.416 0.786,-3.255c0,-0.75 -0.391,-1.376 -1.201,-1.376c-0.952,0 -1.717,1.015 -1.717,2.374c0,0.865 0.284,1.451 0.284,1.451c0,0 -0.974,4.252 -1.145,4.997c-0.34,1.484 -0.051,3.301 -0.027,3.485c0.015,0.109 0.15,0.135 0.212,0.053c0.087,-0.118 1.222,-1.56 1.607,-3.001c0.109,-0.409 0.626,-2.521 0.626,-2.521c0.31,0.608 1.214,1.143 2.175,1.143c2.863,0 4.805,-2.688 4.805,-6.285c0,-2.721 -2.237,-5.254 -5.637,-5.254Z" style="fill:#f2f2f2;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+                <g id="embed">
+                    <g transform="matrix(1,0,0,1,939.966,17.4731)">
+                        <path d="M324.804,36c-9.942,0 -18,-8.059 -18,-18c0,-9.941 8.058,-18 18,-18c9.941,0 18,8.059 18,18c0,9.941 -8.059,18 -18,18Z" style="fill:#969696;fill-rule:nonzero;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,939.966,17.4731)">
+                        <text x="312.046px" y="25px" style="font-family:Open Sans;font-size:19px;font-weight:700;fill:#fff;">&lt; &gt;</text>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,822.2,16.267)">
+                    <text x="97.382px" y="24px" style="font-family:Lato;font-size:12px;fill:#636363;">SHARE THIS VISUALISATION</text>
+                </g>
+            </g>
+            <g id="embedframe" transform="matrix(1,0,0,1,-31.0589,246.893)">
+                <g transform="matrix(0.987435,0,0,0.969067,493.934,189.518)">
+                    <rect x="1.5" y="1.5" width="590.845" height="144.633" style="fill:#fff;fill-rule:nonzero;stroke-width:1.02px;stroke-miterlimit:4;stroke:#dcdcdc;"/>
+                </g>
+                <g transform="matrix(1.00692,0,0,1,23.7658,-254.893)">
+                    <rect x="475.706" y="475.33" width="567.227" height="104.723" style="fill:#404040;stroke-width:4.15px;stroke-miterlimit:4;stroke:#dcdcdc;"/>
+                </g>
+                <g id="embedclose" transform="matrix(0.707978,0,-1.54074e-33,0.707978,314.832,54.1186)">
+                    <g transform="matrix(1,0,0,1,489.584,188.891)">
+                        <rect x="550.857" y="10.13" width="32.487" height="29.688" style="fill:#f1f1f1;fill-rule:nonzero;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,489.584,188.891)">
+                        <text x="560.399px" y="30.569px" style="font-family:Open Sans;font-size:19px;font-weight:700;fill:#929292;">X</text>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,27.0589,-260.893)">
+                    <g id="embedtext">
+                        <text x="486.196px" y="502.047px" style="font-family:Lato;font-size:14.167px;fill:#fff;">&lt;iframe id=&quot;unhcr_popstats_embed&quot; style=&quot;border: none&quot;</text>
+                        <text x="486.196px" y="518.713px" style="font-family:Lato;font-size:14.167px;fill:#fff;">src=&quot;http://data.unhcr.org/popstats/index.html&quot; width=&quot;100%&quot;</text>
+                        <text x="486.196px" y="535.38px" style="font-family:Lato;font-size:14.167px;fill:#fff;">onload=&apos;javascript:iframeResize();&apos;&gt;&lt;/iframe&gt;&lt;script&gt;window.onresize = function(){</text>
+                        <text x="486.196px" y="552.047px" style="font-family:Lato;font-size:14.167px;fill:#fff;">iframeResize();}; function iframeResize(){ var iw = $(&apos;#unhcr_popstats_embed&apos;).width();</text>
+                        <text x="486.196px" y="568.713px" style="font-family:Lato;font-size:14.167px;fill:#fff;">$(&apos;#unhcr_popstats_embed&apos;).height(iw/1.415);}; &lt;/script&gt;</text>
+                    </g>
+                </g>
+                <g transform="matrix(1,0,0,1,487.584,178.891)">
+                    <text x="14.813px" y="31.937px" style="font-family:Lato;font-size:15px;font-weight:700;fill:#797979;">Embed this visualisation into your website</text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

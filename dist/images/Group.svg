@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="437px" height="132px" viewBox="0 0 437 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Group" sketch:type="MSLayerGroup" transform="translate(1.000000, 1.000000)">
+            <circle id="Oval-13" stroke="#B50000" stroke-width="3" sketch:type="MSShapeGroup" cx="412.5" cy="107.5" r="21.5"></circle>
+            <circle id="Oval-14" stroke="#B50000" stroke-width="2" sketch:type="MSShapeGroup" cx="412.5" cy="107.5" r="17.5"></circle>
+            <circle id="Oval-15" stroke="#B50000" stroke-width="2" sketch:type="MSShapeGroup" cx="412.5" cy="107.5" r="13.5"></circle>
+            <circle id="Oval-16" stroke="#B50000" stroke-width="3" sketch:type="MSShapeGroup" cx="412.5" cy="107.5" r="9.5"></circle>
+            <path d="M0.78515625,0.20703125 C0.78515625,0.20703125 78.1171875,99.4804688 204.167969,99.4804688 C330.21875,99.4804688 353.5,54.5898438 375.457031,84.625" id="Path-1240" stroke="#D10000" stroke-width="3" sketch:type="MSShapeGroup"></path>
+            <polygon id="Triangle-1" fill="#D0011B" sketch:type="MSShapeGroup" points="376.5 76 384 89 369 89 "></polygon>
+        </g>
+    </g>
+</svg>

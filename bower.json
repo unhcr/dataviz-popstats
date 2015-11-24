@@ -1,0 +1,15 @@
+{
+  "name": "viz3",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.8.2",
+    "d3": "~3.5.3",
+    "font-awesome": "~4.3.0",
+    "d3-tile": "https://raw.githubusercontent.com/d3/d3-plugins/master/geo/tile/tile.js",
+    "topojson": "~1.6.18",
+    "queue.v1.min": "http://d3js.org/queue.v1.min.js",
+    "colorbrewer": "~1.0.0",
+    "jquery": "~2.1.4",
+    "lato-webfont": "~1.0.4"
+  }
+}

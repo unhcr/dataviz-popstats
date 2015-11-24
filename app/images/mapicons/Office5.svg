@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Office5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Office5" sketch:type="MSLayerGroup">
+            <path d="M15.642,8.61987031 C15.642,12.8550102 12.20925,16.2922253 7.97533333,16.2922253 C3.74141667,16.2922253 0.308666667,12.8550102 0.308666667,8.61987031 C0.308666667,4.38281229 3.74141667,0.947515358 7.97533333,0.947515358 C12.20925,0.947515358 15.642,4.38281229 15.642,8.61987031" id="Fill-1" fill="#ACD2E6" sketch:type="MSShapeGroup"></path>
+            <path d="M11.8086667,8.61987031 C11.8086667,10.7374403 10.0913333,12.4560478 7.97533333,12.4560478 C5.85933333,12.4560478 4.142,10.7374403 4.142,8.61987031 C4.142,6.50230034 5.85933333,4.78369283 7.97533333,4.78369283 C10.0913333,4.78369283 11.8086667,6.50230034 11.8086667,8.61987031" id="Fill-2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

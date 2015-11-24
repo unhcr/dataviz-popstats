@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="14" height="14" viewBox="0, 0, 14, 14">
+  <g id="Background">
+    <rect x="0" y="0" width="14" height="14" fill="#000000" fill-opacity="0"/>
+  </g>
+  <g id="Page-1">
+    <path d="M7,13 C3.686,13 1,10.314 1,7 C1,3.686 3.686,1 7,1 C10.314,1 13,3.686 13,7 C13,10.314 10.314,13 7,13 z" fill-opacity="0" stroke="#4E0000" stroke-width="2"/>
+    <g>
+      <path d="M7,13 C3.686,13 1,10.314 1,7 C1,3.686 3.686,1 7,1 C10.314,1 13,3.686 13,7 C13,10.314 10.314,13 7,13 z" fill="#EFEFEF" fill-opacity="0.481"/>
+      <path d="M7,13 C3.686,13 1,10.314 1,7 C1,3.686 3.686,1 7,1 C10.314,1 13,3.686 13,7 C13,10.314 10.314,13 7,13 z" fill-opacity="0" stroke="#A70000" stroke-width="1"/>
+    </g>
+    <path d="M7,11 C4.791,11 3,9.209 3,7 C3,4.791 4.791,3 7,3 C9.209,3 11,4.791 11,7 C11,9.209 9.209,11 7,11 z" fill-opacity="0" stroke="#A70000" stroke-width="1"/>
+    <g>
+      <path d="M7,9 C5.895,9 5,8.105 5,7 C5,5.895 5.895,5 7,5 C8.105,5 9,5.895 9,7 C9,8.105 8.105,9 7,9 z" fill="#B10000"/>
+      <path d="M7,9 C5.895,9 5,8.105 5,7 C5,5.895 5.895,5 7,5 C8.105,5 9,5.895 9,7 C9,8.105 8.105,9 7,9 z" fill-opacity="0" stroke="#A70000" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
