@@ -16,6 +16,12 @@
                     </g>
                 </g>
             </g>
+            <g transform="matrix(1,0,0,1,664.512,377.428)">
+                <g>
+                    <text x="522.742px" y="670.307px" style="font-family:Lato;font-size:12.5px;fill:#000;fill-opacity:0.741176;">F<tspan x="529.379px 536.329px " y="670.307px 670.307px ">or</tspan> more information, please contact</text>
+                    <text x="725.792px" y="670.307px" style="font-family:Lato;font-size:12.5px;fill:#0400ff;fill-opacity:0.741176;">stats@unhcr<tspan x="793.479px 796.129px " y="670.307px 670.307px ">.o</tspan>rg</text>
+                </g>
+            </g>
             <g id="frame1">
                 <g id="mapcontainer" transform="matrix(1,0,0,0.988373,0,9.18534)">
                     <rect x="20" y="60" width="1460" height="730" style="fill:#000;fill-opacity:0.2;fill-rule:nonzero;"/>
@@ -71,7 +77,7 @@
                         <path d="M294.641,804.25c0,4.143 -3.278,7.5 -7.321,7.5c-4.043,0 -7.32,-3.357 -7.32,-7.5c0,-4.142 3.277,-7.5 7.32,-7.5c4.043,0 7.321,3.358 7.321,7.5Z" style="fill:#8496ab;fill-rule:nonzero;stroke-width:1px;stroke-linejoin:round;stroke:#717d8c;"/>
                         <g transform="matrix(1,0,0,1,304.401,809)">
                             <g>
-                                <text x="0px" y="0px" style="font-family:Lato;font-size:14px;fill:#000;">Asylum-seekers</text>
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:14px;fill:#000;">Asylum-seek<tspan x="78.148px 85.484px " y="0px 0px ">er</tspan>s</text>
                             </g>
                         </g>
                         <g transform="matrix(1,0,0,1,485.95,809)">
@@ -156,10 +162,10 @@
                 </g>
                 <g id="disclaimer" transform="matrix(1,0,0,1,1128.94,767.161)">
                     <g transform="matrix(1,0,0,1,-526.686,4.839)">
-                        <text x="0px" y="0px" style="font-family:Lato;font-size:10px;fill:#666;">Historcal country borders from Weidmann, Nils B., Doreen Kuse, and Kristian Skrede Gleditsch. 2010. The Geography of the International System: The CShapes Dataset. International Interactions 36 (1).</text>
+                        <text x="0px" y="0px" style="font-family:Lato;font-size:10px;fill:#666;">Historcal country borders from W<tspan x="147.61px 152.85px " y="0px 0px ">ei</tspan>dmann, Nils B., Doreen Kuse, and Kristian Skrede Gleditsch. 2010. The Geogr<tspan x="488.05px 493.12px 498.64px 504.04px 509.16px " y="0px 0px 0px 0px 0px ">aphy </tspan>of the International System: The CShapes Dataset. International Inter<tspan x="811.9px 816.97px " y="0px 0px ">ac</tspan>tions 36 (1).</text>
                     </g>
                     <g transform="matrix(1,0,0,1,-290.831,-11.161)">
-                        <text x="0px" y="0px" style="font-family:Lato;font-size:10px;font-weight:700;fill:#666;">The boundaries and names shown and the designations used on this map do not imply ofﬁcial endorsement or acceptance by the United Nations.</text>
+                        <text x="0px" y="0px" style="font-family:Lato;font-size:10px;font-weight:700;fill:#666;">The boundaries and names shown and the designations used on this map do not imply ofﬁcial endorsement or acceptance b<tspan x="542.935px 548.27px " y="0px 0px ">y </tspan>the United Nations.</text>
                     </g>
                 </g>
                 <g id="total">
@@ -171,7 +177,7 @@
                         </g>
                         <g transform="matrix(1,0,0,1,45,140)">
                             <g id="totalsub">
-                                <text x="0px" y="0px" style="font-family:Lato;font-size:20px;fill:#333;">globally/in country name - end of YYYY</text>
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:20px;fill:#333;">globally<tspan x="67.44px 74.9px " y="0px 0px ">/i</tspan>n country name - end of YYYY</text>
                             </g>
                         </g>
                         <g transform="matrix(1,0,0,1,210,108)">
@@ -179,20 +185,6 @@
                                 <text x="0px" y="0px" style="font-family:Lato;font-size:18px;fill:#333;">persons of concern</text>
                             </g>
                         </g>
-                    </g>
-                </g>
-                <g transform="matrix(1,0,0,1,-197.541,499)">
-                    <g>
-                        <text x="316.724px" y="551.875px" style="font-family:Lato;font-size:10px;font-weight:700;fill:#353535;">Refugees</text>
-                        <text x="359.974px" y="551.875px" style="font-family:Lato;font-size:10px;fill:#353535;">= Refugees, including persons in a refugee-like situation.</text>
-                        <text x="604.734px" y="551.875px" style="font-family:Lato;font-size:10px;font-weight:700;fill:#353535;">IDPs</text>
-                        <text x="627.899px" y="551.875px" style="font-family:Lato;font-size:10px;fill:#353535;">= IDPs protected/assisted by UNHCR, including persons in an IDP-like situation.</text>
-                        <text x="975.399px" y="551.875px" style="font-family:Lato;font-size:10px;font-weight:700;fill:#353535;">Returnees</text>
-                        <text x="1023.61px" y="551.875px" style="font-family:Lato;font-size:10px;fill:#353535;">= Returned refugees, returned IDPs.</text>
-                        <text x="1182.85px" y="551.875px" style="font-family:Lato;font-size:10px;font-weight:700;fill:#353535;">Stateless</text>
-                        <text x="1225.26px" y="551.875px" style="font-family:Lato;font-size:10px;fill:#353535;">= Persons under UNHCR’s statelessness mandate.</text>
-                        <text x="1444.48px" y="551.875px" style="font-family:Lato;font-size:10px;font-weight:700;fill:#353535;">Others</text>
-                        <text x="1477.76px" y="551.875px" style="font-family:Lato;font-size:10px;fill:#353535;">= Others of concern to UNHCR.</text>
                     </g>
                 </g>
             </g>
@@ -245,12 +237,12 @@
                         </g>
                         <g transform="matrix(1,0,0,1,28.287,602.486)">
                             <g>
-                                <text x="0px" y="0px" style="font-family:Lato;font-size:14px;font-weight:700;fill:#000;">Legend</text>
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:14px;font-weight:700;fill:#000;">L<tspan x="6.972px 14.455px " y="0px 0px ">eg</tspan>end</text>
                             </g>
                         </g>
                         <g transform="matrix(1,0,0,1,30,772.5)">
                             <g id="filtertitle1">
-                                <text x="0px" y="0px" style="font-family:Lato;font-size:19px;font-weight:700;fill:#000;">Filter by population type</text>
+                                <text x="0px" y="0px" style="font-family:Lato;font-size:19px;font-weight:700;fill:#000;">Filter b<tspan x="60.42px 70.557px " y="0px 0px ">y </tspan>population type</text>
                             </g>
                         </g>
                     </g>
@@ -266,12 +258,12 @@
                     </g>
                     <g>
                         <text x="394.756px" y="670.388px" style="font-family:Lato;font-size:12.5px;font-weight:700;fill:#000;">Refugees</text>
-                        <text x="448.819px" y="670.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">include individuals recognised under the 1951 Convention relating</text>
-                        <text x="394.756px" y="682.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">to the Status of Refugees; its 1967 Protocol; the 1969 OAU Convention</text>
-                        <text x="394.756px" y="695.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">Governing the Speciﬁc Aspects of Refugee Problems in Africa; those</text>
-                        <text x="394.756px" y="707.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">recognised in accordance with the UNHCR Statute; individuals granted</text>
-                        <text x="394.756px" y="720.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">complementary forms of protection; or those enjoying temporary protection.</text>
-                        <text x="394.756px" y="732.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">The refugee population also includes people in a refugee-like situation.</text>
+                        <text x="448.819px" y="670.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">include individuals recognised under the 1951 Con<tspan x="723.581px 729.819px 736.369px " y="670.388px 670.388px 670.388px ">ven</tspan>tion relating</text>
+                        <text x="394.756px" y="682.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">to the Status of Refugees; its 1967 Protocol; the 1969 O<tspan x="697.844px 705.994px 715.119px " y="682.888px 682.888px 682.888px ">AU </tspan>Con<tspan x="739.794px 746.031px 752.581px " y="682.888px 682.888px 682.888px ">ven</tspan>tion</text>
+                        <text x="394.756px" y="695.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">Go<tspan x="410.719px 416.956px 423.506px " y="695.388px 695.388px 695.388px ">ver</tspan>ning the Speciﬁc Aspects of Refugee Problems in Africa; those</text>
+                        <text x="394.756px" y="707.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">recognised in accordance with the UNHCR Statute; individuals gr<tspan x="747.556px 753.894px " y="707.888px 707.888px ">an</tspan>ted</text>
+                        <text x="394.756px" y="720.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">complementary forms of protection; or those enjo<tspan x="665.019px 671.419px " y="720.388px 720.388px ">yi</tspan>ng tempor<tspan x="730.494px 736.831px " y="720.388px 720.388px ">ar</tspan>y protection.</text>
+                        <text x="394.756px" y="732.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">The refugee population also includes people in a refugee-lik<tspan x="715.869px 722.419px " y="732.888px 732.888px ">e </tspan>situation.</text>
                     </g>
                 </g>
                 <g id="asy_tooltip" transform="matrix(1,0,0,1,-115.031,36.6363)">
@@ -283,10 +275,10 @@
                     </g>
                     <g transform="matrix(1,0,0,1,-1.06581e-13,38)">
                         <g>
-                            <text x="394.756px" y="670.388px" style="font-family:Lato;font-size:12.5px;font-weight:700;fill:#000;">Asylum-seekers</text>
-                            <text x="486.275px" y="670.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">are individuals who have sought international</text>
-                            <text x="394.756px" y="682.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">protection and whose claims for refugee status have not yet been</text>
-                            <text x="394.756px" y="695.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">determined, irrespective of when they may have been lodged.</text>
+                            <text x="394.756px" y="670.388px" style="font-family:Lato;font-size:12.5px;font-weight:700;fill:#000;">Asylum-seek<tspan x="466.612px 473.294px " y="670.388px 670.388px ">er</tspan>s</text>
+                            <text x="486.275px" y="670.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">are individuals who ha<tspan x="606.837px 613.075px 619.625px " y="670.388px 670.388px 670.388px ">ve </tspan>sought international</text>
+                            <text x="394.756px" y="682.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">protection and whose claims for refugee status ha<tspan x="664.319px 670.556px 677.106px " y="682.888px 682.888px 682.888px ">ve </tspan>not y<tspan x="706.731px 713.281px " y="682.888px 682.888px ">et</tspan> been</text>
+                            <text x="394.756px" y="695.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">determined, irrespectiv<tspan x="522.194px 528.744px " y="695.388px 695.388px ">e </tspan>of when the<tspan x="595.169px 601.569px " y="695.388px 695.388px ">y </tspan>ma<tspan x="620.381px 626.781px " y="695.388px 695.388px ">y </tspan>ha<tspan x="642.281px 648.519px 655.069px " y="695.388px 695.388px 695.388px ">ve </tspan>been lodged.</text>
                         </g>
                     </g>
                 </g>
@@ -300,12 +292,12 @@
                     <g transform="matrix(1,0,0,1,-1.7053e-13,-1.01389)">
                         <g>
                             <text x="394.756px" y="670.388px" style="font-family:Lato;font-size:12.5px;font-weight:700;fill:#000;">Internally displaced persons (IDPs)</text>
-                            <text x="589.937px" y="670.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">are people or groups of individuals who have been forced to leave</text>
-                            <text x="394.756px" y="682.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">their homes or places of habitual residence, in particular as a result of, or in order to avoid the effects</text>
-                            <text x="394.756px" y="695.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">of armed conﬂict, situations of generalised violence, violations of human rights, or natural or man-</text>
-                            <text x="394.756px" y="707.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">made disasters, and who have not crossed an international border. For the purposes of UNHCR&apos;s</text>
-                            <text x="394.756px" y="720.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">statistics, this population only includes conﬂict-generated IDPs to whom the Ofﬁce extends</text>
-                            <text x="394.756px" y="732.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">protection and/or assistance. The IDP population also includes people in an IDP-like situation.</text>
+                            <text x="589.937px" y="670.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">are people or groups of individuals who ha<tspan x="818px 824.237px 830.787px " y="670.388px 670.388px 670.388px ">ve </tspan>been forced to lea<tspan x="930.55px " y="670.388px ">v</tspan>e</text>
+                            <text x="394.756px" y="682.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">their homes or places of habitual residence, in particular as a result of<tspan x="767.931px 770.581px " y="682.888px 682.888px ">, </tspan>or in order to a<tspan x="853.094px 859.331px 866.281px " y="682.888px 682.888px 682.888px ">voi</tspan>d the effects</text>
+                            <text x="394.756px" y="695.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">of armed conﬂict, situations of gener<tspan x="592.831px 599.169px " y="695.388px 695.388px ">al</tspan>ised violence, violations of human rights, or natur<tspan x="867.594px 873.931px " y="695.388px 695.388px ">al</tspan> or man-</text>
+                            <text x="394.756px" y="707.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">made disasters, and who ha<tspan x="543.081px 549.319px 555.869px " y="707.888px 707.888px 707.888px ">ve </tspan>not crossed an international border<tspan x="749.706px 752.356px 754.769px 761.406px 768.356px " y="707.888px 707.888px 707.888px 707.888px 707.888px ">. For</tspan> the purposes of UNHCR&apos;s</text>
+                            <text x="394.756px" y="720.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">statistics, this population only includes conﬂict-gener<tspan x="682.581px 688.919px " y="720.388px 720.388px ">at</tspan>ed IDPs to whom the Ofﬁce e<tspan x="851.294px 857.594px " y="720.388px 720.388px ">xt</tspan>ends</text>
+                            <text x="394.756px" y="732.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">protection and/<tspan x="479.081px 486.031px " y="732.888px 732.888px ">or</tspan> assistance. The IDP population also includes people in an IDP-lik<tspan x="840.056px 846.606px " y="732.888px 732.888px ">e </tspan>situation.</text>
                         </g>
                     </g>
                 </g>
@@ -319,34 +311,32 @@
                     <g transform="matrix(1,0,0,1,-1.42109e-13,-5.80584)">
                         <g>
                             <text x="394.756px" y="670.388px" style="font-family:Lato;font-size:12.5px;font-weight:700;fill:#000;">Returned refugees</text>
-                            <text x="500.981px" y="670.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">are former refugees who have returned to their country of</text>
-                            <text x="394.756px" y="682.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">origin spontaneously or in an organised fashion but are yet to be fully integrated.</text>
-                            <text x="394.756px" y="695.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">Such return would normally only take place in conditions of safety and dignity.</text>
+                            <text x="500.981px" y="670.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">are former refugees who ha<tspan x="650.831px 657.069px 663.619px " y="670.388px 670.388px 670.388px ">ve </tspan>returned to their country of</text>
+                            <text x="394.756px" y="682.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">origin spontaneously or in an organised fashion but are y<tspan x="699.881px 706.431px " y="682.888px 682.888px ">et</tspan> to be fully integr<tspan x="802.406px 808.744px " y="682.888px 682.888px ">at</tspan>ed.</text>
+                            <text x="394.756px" y="695.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">Such return would normally only tak<tspan x="591.044px 597.594px " y="695.388px 695.388px ">e </tspan>place in conditions of safety and dignity<tspan x="812.556px " y="695.388px ">.</tspan></text>
                             <text x="394.756px" y="716.221px" style="font-family:Lato;font-size:12.5px;font-weight:700;fill:#000;">Returned IDPs</text>
                             <text x="478.956px" y="716.221px" style="font-family:Lato;font-size:12.5px;fill:#000;">refer to those IDPs who were beneﬁciaries of UNHCR&apos;s</text>
                             <text x="394.756px" y="728.721px" style="font-family:Lato;font-size:12.5px;fill:#000;">protection and assistance activities and who returned to their areas of origin or</text>
-                            <text x="394.756px" y="741.221px" style="font-family:Lato;font-size:12.5px;fill:#000;">habitual residence during the year.</text>
+                            <text x="394.756px" y="741.221px" style="font-family:Lato;font-size:12.5px;fill:#000;">habitual residence during the y<tspan x="562.031px 568.581px 574.919px 579.131px " y="741.221px 741.221px 741.221px 741.221px ">ear.</tspan></text>
                         </g>
                     </g>
                 </g>
-                <g id="sta_tooltip" transform="matrix(1,0,0,1,601.969,35.6363)">
-                    <g transform="matrix(1,0,0,1.03076,-600.969,-59.2677)">
-                        <path d="M1475.56,779.081l-453.322,0l-10.911,14.66l-10.911,-14.66l-23.042,0l0,-108.265l498.186,0l0,108.265Z" style="fill:#fff;stroke-width:1.64px;stroke-miterlimit:4;stroke:#cecece;"/>
+                <g id="sta_tooltip" transform="matrix(1,0,0,1,605.969,35.6363)">
+                    <g transform="matrix(0.889494,0,0,0.817955,-492.963,109.641)">
+                        <path d="M1475.56,779.081l-453.322,0l-10.911,14.66l-10.911,-14.66l-23.042,0l0,-108.265l498.186,0l0,108.265Z" style="fill:#fff;stroke-width:1.95px;stroke-miterlimit:4;stroke:#cecece;"/>
                     </g>
-                    <g transform="matrix(1,-3.51152e-18,-4.57178e-18,1.35677,1,-259.873)">
+                    <g transform="matrix(1,-3.51152e-18,-3.38579e-18,1.0048,1,-1.30834)">
                         <rect x="381.938" y="662.641" width="6.021" height="71.982" style="fill:#a7bdb6;"/>
                     </g>
-                    <g transform="matrix(1,0,0,1,-2.84217e-14,-22)">
+                    <g transform="matrix(1,0,0,1,-8.52651e-14,3.01646)">
                         <g>
                             <text x="394.756px" y="670.388px" style="font-family:Lato;font-size:12.5px;font-weight:700;fill:#000;">Stateless persons</text>
-                            <text x="494.175px" y="670.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">are deﬁned under international law as persons who are not</text>
-                            <text x="394.756px" y="682.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">considered as nationals by any State under the operation of its law. In other words, they</text>
-                            <text x="394.756px" y="695.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">do not possess the nationality of any State. UNHCR statistics refer to persons who fall</text>
-                            <text x="394.756px" y="707.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">under the agency’s statelessness mandate because they are stateless according to this</text>
-                            <text x="394.756px" y="720.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">international deﬁnition, but data from some countries may also include persons with</text>
-                            <text x="394.756px" y="732.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">undetermined nationality. Others of concern refers to individuals who do not</text>
-                            <text x="394.756px" y="745.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">necessarily fall directly into any of the groups above, but to whom UNHCR extends its</text>
-                            <text x="394.756px" y="757.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">protection and/or assistance services, based on humanitarian or other special grounds.</text>
+                            <text x="494.175px" y="670.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">are deﬁned under international la<tspan x="675.8px 685.375px " y="670.388px 670.388px ">w </tspan>as persons who are not</text>
+                            <text x="394.756px" y="682.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">considered as nationals b<tspan x="531.069px 537.469px " y="682.888px 682.888px ">y </tspan>an<tspan x="552.969px 559.369px " y="682.888px 682.888px ">y </tspan>State under the oper<tspan x="673.694px 680.031px " y="682.888px 682.888px ">at</tspan>ion of its la<tspan x="742.919px 752.106px 754.756px " y="682.888px 682.888px 682.888px ">w. </tspan>In other</text>
+                            <text x="394.756px" y="695.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">words, the<tspan x="451.794px 458.194px " y="695.388px 695.388px ">y </tspan>do not possess the nationality of an<tspan x="650.944px 657.344px " y="695.388px 695.388px ">y </tspan>State. UNHCR statistics</text>
+                            <text x="394.756px" y="707.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">refer to persons who fall under the agency’s statelessness mandate because</text>
+                            <text x="394.756px" y="720.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">the<tspan x="412.756px 419.156px " y="720.388px 720.388px ">y </tspan>are stateless according to this international deﬁnition, but data from</text>
+                            <text x="394.756px" y="732.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">some countries ma<tspan x="496.731px 503.131px " y="732.888px 732.888px ">y </tspan>also include persons with undetermined nationality<tspan x="782.481px " y="732.888px ">.</tspan></text>
                         </g>
                     </g>
                 </g>
@@ -362,9 +352,9 @@
                             <text x="394.756px" y="670.388px" style="font-family:Lato;font-size:12.5px;font-weight:700;fill:#000;">Others of concern</text>
                             <text x="497.7px" y="670.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">refers to individuals</text>
                             <text x="394.756px" y="682.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">who do not necessarily fall directly</text>
-                            <text x="394.756px" y="695.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">into any of the groups above, but to</text>
-                            <text x="394.756px" y="707.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">whom UNHCR extends its protection</text>
-                            <text x="394.756px" y="720.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">and/or assistance services, based on</text>
+                            <text x="394.756px" y="695.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">into an<tspan x="432.019px 438.419px " y="695.388px 695.388px ">y </tspan>of the other groups, but to</text>
+                            <text x="394.756px" y="707.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">whom UNHCR e<tspan x="484.131px 490.431px " y="707.888px 707.888px ">xt</tspan>ends its protection</text>
+                            <text x="394.756px" y="720.388px" style="font-family:Lato;font-size:12.5px;fill:#000;">and/<tspan x="418.969px 425.919px " y="720.388px 720.388px ">or</tspan> assistance services, based on</text>
                             <text x="394.756px" y="732.888px" style="font-family:Lato;font-size:12.5px;fill:#000;">humanitarian or other special grounds.</text>
                         </g>
                     </g>
@@ -374,24 +364,24 @@
                 <rect x="16.885" y="7.501" width="1468.04" height="1029.1" style="fill:#fff;fill-opacity:0.69;fill-rule:nonzero;"/>
                 <g transform="matrix(0.79323,0,0,0.79323,170.966,172.931)">
                     <g transform="matrix(1.26067,0,0,1.26067,-281.739,-403.009)">
-                        <text x="608.69px" y="566.492px" style="font-family:Lato;font-size:20.833px;font-weight:700;fill:#0e78be;">UNHCR Statistics - The World in Numbers</text>
+                        <text x="608.69px" y="566.492px" style="font-family:Lato;font-size:20.833px;font-weight:700;fill:#0e78be;">UNHCR Statistics - The W<tspan x="848.992px 860.836px " y="566.492px 566.492px ">or</tspan>ld in Numbers</text>
                     </g>
                     <g transform="matrix(1.26067,0,0,1.26067,-281.739,-158.99)">
-                        <text x="691.941px" y="563.287px" style="font-family:Lato;font-size:16.667px;fill:#0e78be;">CLICK ANYWHERE TO START</text>
+                        <text x="691.941px" y="563.287px" style="font-family:Lato;font-size:16.667px;fill:#0e78be;">CLICK ANYWHERE T<tspan x="849.358px 862.658px " y="563.287px 563.287px ">O </tspan>ST<tspan x="883.441px 894.774px 905.074px " y="563.287px 563.287px 563.287px ">ART</tspan></text>
                     </g>
                     <g transform="matrix(1.26067,0,0,1.26067,-304.806,-481.332)">
                         <g>
-                            <text x="525.064px" y="668.092px" style="font-family:Lato;font-size:16.667px;fill:#353535;">The number of people displaced due to conﬂict, war, persecution and human rights</text>
-                            <text x="528.647px" y="688.092px" style="font-family:Lato;font-size:16.667px;fill:#353535;">violations has increased signiﬁcantly in recent years. UNHCR’s statistics are a sad</text>
-                            <text x="518.089px" y="708.092px" style="font-family:Lato;font-size:16.667px;fill:#353535;">testimony of this global trend, with the world map on this page clearly visualising the</text>
-                            <text x="531.022px" y="728.092px" style="font-family:Lato;font-size:16.667px;fill:#353535;">increase in displacement over time. It is also evidence of the complexity of forced</text>
-                            <text x="528.622px" y="748.092px" style="font-family:Lato;font-size:16.667px;fill:#353535;">displacement today, with the number and different type of populations UNHCR is</text>
-                            <text x="664.755px" y="768.092px" style="font-family:Lato;font-size:16.667px;fill:#353535;">engaged with, increasing globally each year.</text>
+                            <text x="525.064px" y="668.092px" style="font-family:Lato;font-size:16.667px;fill:#353535;">The number of people displaced due to conﬂict, war<tspan x="896.114px 899.647px " y="668.092px 668.092px ">, </tspan>persecution and human rights</text>
+                            <text x="528.647px" y="688.092px" style="font-family:Lato;font-size:16.667px;fill:#353535;">violations has increased signiﬁcantly in recent y<tspan x="871.297px 880.03px " y="688.092px 688.092px ">ea</tspan>rs. UNHCR’s statistics are a sad</text>
+                            <text x="518.089px" y="708.092px" style="font-family:Lato;font-size:16.667px;fill:#353535;">testimon<tspan x="582.705px 591.239px " y="708.092px 708.092px ">y </tspan>of this global trend, with the world map on this page clearly visualising the</text>
+                            <text x="531.022px" y="728.092px" style="font-family:Lato;font-size:16.667px;fill:#353535;">increase in displacement o<tspan x="721.589px 729.905px 738.639px " y="728.092px 728.092px 728.092px ">ver</tspan> time. It is also e<tspan x="858.439px 866.972px " y="728.092px 728.092px ">vi</tspan>dence of the comple<tspan x="1016.25px 1024.65px " y="728.092px 728.092px ">xi</tspan>ty of forced</text>
+                            <text x="528.622px" y="748.092px" style="font-family:Lato;font-size:16.667px;fill:#353535;">displacement toda<tspan x="661.972px 669.405px 672.939px " y="748.092px 748.092px 748.092px ">y, </tspan>with the number and different type of populations UNHCR is</text>
+                            <text x="664.755px" y="768.092px" style="font-family:Lato;font-size:16.667px;fill:#353535;">engaged with, increasing globally each y<tspan x="952.355px 961.089px 969.539px 975.155px " y="768.092px 768.092px 768.092px 768.092px ">ear.</tspan></text>
                         </g>
                     </g>
                     <g transform="matrix(1.26067,0,0,1.26067,-83.0693,-346.225)">
                         <g>
-                            <text x="701.946px" y="296.874px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">Hover over countries to show</text>
+                            <text x="701.946px" y="296.874px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">Ho<tspan x="718.184px 724.421px 730.971px " y="296.874px 296.874px 296.874px ">ver</tspan> o<tspan x="745.209px 751.446px 757.996px " y="296.874px 296.874px 296.874px ">ver</tspan> countries to show</text>
                             <text x="701.946px" y="309.374px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">details. Click on a country to</text>
                             <text x="701.946px" y="321.874px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">lock the selection.</text>
                         </g>
@@ -399,8 +389,8 @@
                     <g transform="matrix(1.26067,0,0,1.26067,-852.228,-350.881)">
                         <g>
                             <text x="701.946px" y="296.874px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">Shows the total persons of concern</text>
-                            <text x="701.946px" y="309.374px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">globally (or in the country selected)</text>
-                            <text x="701.946px" y="321.874px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">for a particular year</text>
+                            <text x="701.946px" y="309.374px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">globally (<tspan x="750.571px 757.521px " y="309.374px 309.374px ">or</tspan> in the country selected)</text>
+                            <text x="701.946px" y="321.874px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">for a particular y<tspan x="791.459px 798.009px " y="321.874px 321.874px ">ea</tspan>r</text>
                         </g>
                     </g>
                     <g transform="matrix(1.26067,0,0,1.26067,-679.673,280.373)">
@@ -413,7 +403,7 @@
                         <text x="701.946px" y="296.874px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">Click on a population type to ﬁlter</text>
                     </g>
                     <g transform="matrix(1.26067,0,0,1.26067,313.747,537.308)">
-                        <text x="701.946px" y="296.874px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">Move the slider to explore previous years</text>
+                        <text x="701.946px" y="296.874px" style="font-family:Lato;font-size:12.5px;fill:#58595b;">Mo<tspan x="720.234px 726.471px 733.021px " y="296.874px 296.874px 296.874px ">ve </tspan>the slider to e<tspan x="809.021px 815.321px " y="296.874px 296.874px ">xp</tspan>lore pre<tspan x="864.696px 871.096px " y="296.874px 296.874px ">vi</tspan>ous y<tspan x="902.271px 908.821px " y="296.874px 296.874px ">ea</tspan>rs</text>
                     </g>
                     <g transform="matrix(1.12254,0,0,1.12254,-82.4429,-99.4225)">
                         <path d="M93.21,119.327c-26.881,0 -49.274,-18.815 -54.202,-44.511" style="fill:none;stroke-width:2.25px;stroke-miterlimit:4;stroke:#f1585d;"/>
@@ -470,10 +460,10 @@
             <g id="header">
                 <g transform="matrix(1,0,0,1,1,3)">
                     <g transform="matrix(1,0,0,1,19.0518,12.1465)">
-                        <text id="header1" x="0px" y="17.465px" style="font-family:Lato;font-size:23.333px;font-weight:900;fill:#000;">UNHCR STATISTICS</text>
+                        <text id="header1" x="0px" y="17.465px" style="font-family:Lato;font-size:23.333px;font-weight:900;fill:#000;">UNHCR ST<tspan x="112.327px 127.657px 141.633px " y="17.465px 17.465px 17.465px ">ATI</tspan>STICS</text>
                     </g>
                     <g transform="matrix(1,0,0,1,19.0518,38.1465)">
-                        <text id="header2" x="0px" y="11.145px" style="font-family:Lato;font-size:15px;font-weight:700;fill:#000;">The World in Numbers</text>
+                        <text id="header2" x="0px" y="11.145px" style="font-family:Lato;font-size:15px;font-weight:700;fill:#000;">The W<tspan x="43.755px 52.283px " y="11.145px 11.145px ">or</tspan>ld in Numbers</text>
                     </g>
                 </g>
                 <g transform="matrix(1,0,0,1,1428.72,8.65839)">
@@ -572,7 +562,7 @@
                     </g>
                 </g>
                 <g transform="matrix(1,0,0,1,822.2,16.267)">
-                    <text x="97.382px" y="24px" style="font-family:Lato;font-size:12px;fill:#636363;">SHARE THIS VISUALISATION</text>
+                    <text x="97.382px" y="24px" style="font-family:Lato;font-size:12px;fill:#636363;">SHARE THIS VISUA<tspan x="201.626px " y="24px ">L</tspan>ISAT<tspan x="233.078px " y="24px ">I</tspan>ON</text>
                 </g>
             </g>
             <g id="embedframe" transform="matrix(1,0,0,1,-31.0589,246.893)">
@@ -592,15 +582,15 @@
                 </g>
                 <g transform="matrix(1,0,0,1,27.0589,-260.893)">
                     <g id="embedtext">
-                        <text x="486.196px" y="502.047px" style="font-family:Lato;font-size:14.167px;fill:#fff;">&lt;iframe id=&quot;unhcr_popstats_embed&quot; style=&quot;border: none&quot;</text>
-                        <text x="486.196px" y="518.713px" style="font-family:Lato;font-size:14.167px;fill:#fff;">src=&quot;http://popstats.unhcr.org/dataviz/index.html&quot; width=&quot;100%&quot;</text>
-                        <text x="486.196px" y="535.38px" style="font-family:Lato;font-size:14.167px;fill:#fff;">onload=&apos;javascript:iframeResize();&apos;&gt;&lt;/iframe&gt;&lt;script&gt;window.onresize = function(){</text>
-                        <text x="486.196px" y="552.047px" style="font-family:Lato;font-size:14.167px;fill:#fff;">iframeResize();}; function iframeResize(){ var iw = $(&apos;#unhcr_popstats_embed&apos;).width();</text>
-                        <text x="486.196px" y="568.713px" style="font-family:Lato;font-size:14.167px;fill:#fff;">$(&apos;#unhcr_popstats_embed&apos;).height(iw/1.415);}; &lt;/script&gt;</text>
+                        <text x="486.196px" y="502.047px" style="font-family:Lato;font-size:14.167px;fill:#fff;">&lt;ifr<tspan x="508.254px 515.436px " y="502.047px 502.047px ">am</tspan>e id=&quot;unhcr_popstats_embed&quot; style=&quot;border: none<tspan x="836.807px " y="502.047px ">&quot;</tspan></text>
+                        <text x="486.196px" y="518.713px" style="font-family:Lato;font-size:14.167px;fill:#fff;">src=&quot;http:/<tspan x="552.666px 557.327px 565.147px " y="518.713px 518.713px 518.713px ">/po</tspan>pstats.unhcr<tspan x="648.915px 651.918px " y="518.713px 518.713px ">.o</tspan>rg/<tspan x="677.205px 685.125px " y="518.713px 518.713px ">da</tspan>ta<tspan x="704.547px 711.8px " y="518.713px 518.713px ">vi</tspan>z/inde<tspan x="753.677px 760.817px " y="518.713px 518.713px ">x.</tspan>html&quot; width=&quot;100%&quot;</text>
+                        <text x="486.196px" y="535.38px" style="font-family:Lato;font-size:14.167px;fill:#fff;">onload=&apos;ja<tspan x="550.584px 557.837px " y="535.38px 535.38px ">va</tspan>script:ifr<tspan x="617.635px 624.817px " y="535.38px 535.38px ">am</tspan>eResize();&apos;&gt;&lt;/ifr<tspan x="735.048px 742.23px " y="535.38px 535.38px ">am</tspan>e&gt;&lt;script&gt;window<tspan x="869.702px 872.705px " y="535.38px 535.38px ">.o</tspan>nresize = function(){</text>
+                        <text x="486.196px" y="552.047px" style="font-family:Lato;font-size:14.167px;fill:#fff;">ifr<tspan x="500.037px 507.22px " y="552.047px 552.047px ">am</tspan>eResize();}; function ifr<tspan x="657.57px 664.753px " y="552.047px 552.047px ">am</tspan>eResize(){ var iw = $(&apos;#unhcr_popstats_embed&apos;).<tspan x="967.636px 978.488px " y="552.047px 552.047px ">wi</tspan>dth();</text>
+                        <text x="486.196px" y="568.713px" style="font-family:Lato;font-size:14.167px;fill:#fff;">$(&apos;#unhcr_popstats_embed&apos;).height(iw/1.415);}; &lt;/<tspan x="793.981px 800.13px " y="568.713px 568.713px ">sc</tspan>ript&gt;</text>
                     </g>
                 </g>
                 <g transform="matrix(1,0,0,1,487.584,178.891)">
-                    <text x="14.813px" y="31.937px" style="font-family:Lato;font-size:15px;font-weight:700;fill:#797979;">Embed this visualisation into your website</text>
+                    <text x="14.813px" y="31.937px" style="font-family:Lato;font-size:15px;font-weight:700;fill:#797979;">Embed this visualisation into yo<tspan x="225.601px " y="31.937px ">u</tspan>r website</text>
                 </g>
             </g>
         </g>
