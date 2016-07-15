@@ -1074,7 +1074,7 @@ var viz = new Vizlib(dataSources, function(data){
 	//**************************
 	// SLIDER
 	//**************************
-	var selectedYear = 2014;
+	var selectedYear = 2015;
 
 	var slider = viz.slider({
 		appendTo: svg,
