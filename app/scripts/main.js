@@ -66,7 +66,7 @@ var dataSources = [
 {'name': 'disputed_boundaries', 'source': 'scripts/geo/topojson/disputed_boundaries.json'},
 {'name': 'disputed_boundaries_polygons', 'source': 'scripts/geo/topojson/disputed_boundaries_polygons.json'},
 // {'name': 'poc', 'source': 'scripts/geo/data/poc.json'},
-{'name': 'poc', 'source': 'http://popdata.unhcr.org/api/stats/persons_of_concern_all_countries_total.json'},
+{'name': 'poc', 'source': 'scripts/data.json'},
 {'name': 'layout', 'source': 'images/layout.svg'},
 ];
 
@@ -1688,7 +1688,7 @@ d3.select('#embedframe').attr('transform', 'translate(0,-600)');
 		$("#loader").hide();
 
 		var yearNow = new Date().getFullYear();
-		d3.select("#copyrightYear tspan").text(yearNow);
+		d3.select("#copyrightYear text").text(yearNow);
 
 		$(window).trigger('resize');
 	});
