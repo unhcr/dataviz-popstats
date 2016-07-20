@@ -66,7 +66,7 @@ var dataSources = [
 {'name': 'disputed_boundaries', 'source': 'scripts/geo/topojson/disputed_boundaries.json'},
 {'name': 'disputed_boundaries_polygons', 'source': 'scripts/geo/topojson/disputed_boundaries_polygons.json'},
 // {'name': 'poc', 'source': 'scripts/geo/data/poc.json'},
-{'name': 'poc', 'source': 'scripts/data.json'},
+{'name': 'poc', 'source': 'scripts/geo/data/data.json'},
 {'name': 'layout', 'source': 'images/layout.svg'},
 ];
 
