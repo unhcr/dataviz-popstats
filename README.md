@@ -15,6 +15,10 @@ Interactive data-visualisation for popstats.unhcr.org<br/><br/>
 
 **To build and deploy**<br/><br/>
 `grunt build` packages the application into the dist folder
+ssh into 10.9.43.77 (unhcrpsr alias)
+cd /var/www/dataviz
+sudo git pull
+
 
 ***
 **To embed the visualisation in other pages**<br/><br/>
