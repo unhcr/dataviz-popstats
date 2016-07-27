@@ -345,10 +345,14 @@
 	},
 	"expanded_folders":
 	[
-		"/localhost/www/PopStats-Dataviz"
+		"/localhost/www/PopStats-Dataviz",
+		"/localhost/www/PopStats-Dataviz/app",
+		"/localhost/www/PopStats-Dataviz/app/images",
+		"/localhost/www/PopStats-Dataviz/app/scripts"
 	],
 	"file_history":
 	[
+		"/localhost/www/PopStats-Dataviz/app/scripts/main.js",
 		"/Users/matthewsmawfield/owp/src/OWP/Bundle/PopulationBundle/Form/PopulationGroupsType.php",
 		"/Users/matthewsmawfield/owp/web/bundles/owppopulation/js/edit.js",
 		"/Users/matthewsmawfield/owp/src/OWP/Bundle/PopulationBundle/Entity/PopulationDataRepository.php",
@@ -475,12 +479,11 @@
 		"/Users/matthewsmawfield/owp/src/OWP/Bundle/CommonBundle/Widget/Text/default.html.twig",
 		"/Users/matthewsmawfield/owp/src/OWP/Bundle/CommonBundle/Widget/W3w/default.html.twig",
 		"/Users/matthewsmawfield/owp/src/OWP/Bundle/CommonBundle/Widget/Links/list.html.twig",
-		"/Users/matthewsmawfield/owp/src/OWP/Bundle/CommonBundle/Widget/News/list.html.twig",
-		"/Users/matthewsmawfield/owp/src/OWP/Bundle/CommonBundle/Widget/Highlights/list.html.twig"
+		"/Users/matthewsmawfield/owp/src/OWP/Bundle/CommonBundle/Widget/News/list.html.twig"
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
