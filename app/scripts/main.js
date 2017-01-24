@@ -1,4 +1,4 @@
-var populationTypes = [
+ var populationTypes = [
 	{'Refugees, including persons in a refugee-like situation':'ref+roc'},
 	{'Asylum-seekers (pending cases)':'asy'},
 	{'IDPs protected/assisted by UNHCR, including persons in an IDP-like situation':'idp+ioc'},
@@ -258,13 +258,15 @@ var viz = new Vizlib(dataSources, function(data){
 
 	// remove redacted (*) and replace with 0
 	$(data.poc).each(function(i,d){
+
 		for (var key in this) {
+			// console.log(this);
 			if(this[key]=='*'){
 				this[key]=null;
 			}
 		}
 
-				d.ref = d.ref+d.roc;
+		d.ref = d.ref+d.roc;
 		d.idp = d.idp+d.ioc;
 		d.ret = d.ret+d.rdp;
 		delete d.ioc;
@@ -272,7 +274,6 @@ var viz = new Vizlib(dataSources, function(data){
 		delete d.roc;
 
 	});
-
 
 	// totals by year
 	var totalDataNest = d3.nest()
@@ -334,11 +335,41 @@ var viz = new Vizlib(dataSources, function(data){
 
 	var countryData = {};
 	var countryDataArr = {};
+
 	countryTotalData.forEach(function(d,i){
 		countryData[d.key] = [];
 		countryDataArr[d.key] = [];
 
-		d.values.forEach(function(dd,ii){
+		var yrMin = d3.min(d.values, function(d2) { return d2.key; });
+		var yrMax = d3.max(d.values, function(d2) { return d2.key; });
+
+		// check for missing years
+		for(var y = 1951; y <= 2015; y++){
+			var found = 0;
+			// if year key is not in array
+			d.values.forEach(function(dd,ii){
+				dd.key = parseInt(dd.key);
+				if(dd.key==y){
+					found = 1;
+				}
+			});
+
+			if(found==0){
+				// if(y<yrMin){
+					// d.values.unshift({'key': y, values: {piedata: [0,0,0,0,0,0], totals: 0}});
+				// } else {
+				d.values.push({'key': y, values: {piedata: [0,0,0,0,0,0], totals: 0}});
+				// }
+			}
+		}
+
+
+
+		var values = d.values.sort(function(a, b){
+		  return a.key - b.key;
+		});
+
+		values.forEach(function(dd,ii){
 			countryData[d.key][dd.key] = [];
 			countryData[d.key][dd.key].piedata = dd.values.piedata;
 			countryData[d.key][dd.key].totals = dd.values.totals;
@@ -353,7 +384,10 @@ var viz = new Vizlib(dataSources, function(data){
 
 		});
 
+
 	});
+
+
 
 	// // version using stacked chart
 	// var timeData = d3.nest()
@@ -1034,9 +1068,6 @@ var viz = new Vizlib(dataSources, function(data){
 
 	d3.selectAll('#columnChart1').style('background-color', '#FFF !important');
 
-	// console.log(sliderData());
-
-
 	// var yearButtons = viz.yearButtons({
 	// appendTo: svg,
 	// id: 'yearButtons',
@@ -1126,6 +1157,10 @@ var viz = new Vizlib(dataSources, function(data){
 				'data': getMapData(val)
 			});
 
+			// var dat = getMapData(val);
+			// for(var i = 0; i < dat.length; i++){
+			// }
+
 			// update total figures
 			updateTotals();
 
@@ -1182,7 +1217,6 @@ var viz = new Vizlib(dataSources, function(data){
 	d3.select('#togglemask')
 	.on('mouseover', function(){
 
-		console.log('toggle hover');
 		d3.select('#togglebg #oval')
 		.style('fill', '#F3F3F3');
 
@@ -1637,7 +1671,6 @@ d3.select('#socialmedia #googleplus')
 
 d3.select('#socialmedia #embed')
 .on('click', function(){
-	console.log('click');
 	d3.select('#embedframe').attr('transform', 'translate(0,200)');
 });
 

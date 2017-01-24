@@ -4372,8 +4372,10 @@ slices.update = function(updateOptions){
                 // })
 				.attr('opacity',options.opacity)
                 .attr("transform", function (d) {
-                	d.scale = radiusScale(d.values.total);
-                    return "translate(" + projection([d.lon, d.lat]) + ")scale("+radiusScale(d.values.total)+")";
+        			if((d.lat)&&(d.lon)){
+	        			d.scale = radiusScale(d.values.total);
+	                    return "translate(" + projection([d.lon, d.lat]) + ")scale("+radiusScale(d.values.total)+")";
+        			}
                 }).on('mouseover', options.mouseover)
                 .on('mouseout', options.mouseout)
                 .on('click', options.click);
@@ -4485,8 +4487,10 @@ slices.update = function(updateOptions){
 
         		var pObj = this.data(updateOptions.data)
         		.attr("transform", function (d) {
-        			d.scale = radiusScale(d.values.total);
-                    return "translate(" + projection([d.lon, d.lat]) + ")scale("+radiusScale(d.values.total)+")";
+        			if((d.lat)&&(d.lon)){
+	        			d.scale = radiusScale(d.values.total);
+	                    return "translate(" + projection([d.lon, d.lat]) + ")scale("+radiusScale(d.values.total)+")";
+        			}
                 });
 
         		pObj.selectAll("path")
