@@ -511,7 +511,8 @@ var viz = new Vizlib(dataSources, function(data){
 	};
 
 	var mapDataBase = data.poc.filter(function(d,i){
-		return ((mapCountries.indexOf(d.country_iso) > -1) && (d.country_code != 'VAR'));
+		// filter out latvia, various, 
+		return ((mapCountries.indexOf(d.country_iso) > -1) && (d.country_code != 'VAR') && (d.country_code != 'LVA') && (d.country_code != 'EST'));
 	});
 
 	// get maximum country circle. 

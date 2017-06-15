@@ -339,6 +339,12 @@ module.exports = function (grunt) {
           src: '**/*',
           dest: '<%= config.dist %>/images',
           expand: true
+        },
+        {
+          cwd: '<%= config.app %>/proxima-nova',
+          src: '**/*',
+          dest: '<%= config.dist %>/proxima-nova',
+          expand: true
         }, {
           cwd: 'bower_components/font-awesome/fonts',
           src: '**/*',
