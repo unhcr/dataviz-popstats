@@ -17,7 +17,7 @@
 			],
 			[
 				"sfe",
-				"sfem	Symfony2 Get Entity Manager"
+				"sfem\tSymfony2 Get Entity Manager"
 			],
 			[
 				"sql",
@@ -25,7 +25,7 @@
 			],
 			[
 				"sf",
-				"sfrepo	Symfony2 Get Repository"
+				"sfrepo\tSymfony2 Get Repository"
 			],
 			[
 				"cap",
@@ -37,7 +37,7 @@
 			],
 			[
 				"d",
-				"data	.data()"
+				"data\t.data()"
 			],
 			[
 				"mapC",
@@ -65,7 +65,7 @@
 			],
 			[
 				"h",
-				"html	html"
+				"html\thtml"
 			],
 			[
 				"get",
@@ -113,7 +113,7 @@
 			],
 			[
 				"function",
-				"function 	Language Construct"
+				"function \tLanguage Construct"
 			],
 			[
 				"i",
@@ -352,6 +352,7 @@
 	],
 	"file_history":
 	[
+		"/localhost/www/PopStats-Dataviz/app/scripts/vizlib/vizlib.js",
 		"/localhost/www/PopStats-Dataviz/app/scripts/main.js",
 		"/Users/matthewsmawfield/owp/src/OWP/Bundle/PopulationBundle/Form/PopulationGroupsType.php",
 		"/Users/matthewsmawfield/owp/web/bundles/owppopulation/js/edit.js",
@@ -478,8 +479,7 @@
 		"/Users/matthewsmawfield/owp/src/OWP/Bundle/CommonBundle/Widget/StaticText/default.html.twig",
 		"/Users/matthewsmawfield/owp/src/OWP/Bundle/CommonBundle/Widget/Text/default.html.twig",
 		"/Users/matthewsmawfield/owp/src/OWP/Bundle/CommonBundle/Widget/W3w/default.html.twig",
-		"/Users/matthewsmawfield/owp/src/OWP/Bundle/CommonBundle/Widget/Links/list.html.twig",
-		"/Users/matthewsmawfield/owp/src/OWP/Bundle/CommonBundle/Widget/News/list.html.twig"
+		"/Users/matthewsmawfield/owp/src/OWP/Bundle/CommonBundle/Widget/Links/list.html.twig"
 	],
 	"find":
 	{
@@ -783,6 +783,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"viz",
+				"app/scripts/vizlib/vizlib.js"
+			],
 			[
 				"popdatarepo",
 				"src/OWP/Bundle/PopulationBundle/Entity/PopulationDataRepository.php"
@@ -1290,10 +1294,6 @@
 			[
 				"demographychartt",
 				"src/OWP/Bundle/CommonBundle/Widget/Population/demographyChartType.html.twig"
-			],
-			[
-				"adminlayouttwi",
-				"src/OWP/Bundle/AdminBundle/Resources/views/layout.html.twig"
 			]
 		],
 		"width": 0.0

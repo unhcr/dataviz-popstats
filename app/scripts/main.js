@@ -344,7 +344,7 @@ var viz = new Vizlib(dataSources, function(data){
 		var yrMax = d3.max(d.values, function(d2) { return d2.key; });
 
 		// check for missing years
-		for(var y = 1951; y <= 2015; y++){
+		for(var y = 1951; y <= 2016; y++){
 			var found = 0;
 			// if year key is not in array
 			d.values.forEach(function(dd,ii){
@@ -467,7 +467,7 @@ var viz = new Vizlib(dataSources, function(data){
 	// var i = 1900;
 	// var randomData = [];
 
-	// while (i <= 2015) {
+	// while (i <= 2016) {
 	// 	var r = Math.floor(Math.random() * 60000000) + 1000000  
 	//     randomData.push({'series': i, values: [r]});
 	//     i++;
@@ -502,7 +502,7 @@ var viz = new Vizlib(dataSources, function(data){
 	};
 
 	var mapDataBase = data.poc.filter(function(d,i){
-		return mapCountries.indexOf(d.country_iso) > -1;
+		return ((mapCountries.indexOf(d.country_iso) > -1) && (d.country_code != 'VAR'));
 	});
 
 	// get maximum country circle. 
@@ -1105,7 +1105,7 @@ var viz = new Vizlib(dataSources, function(data){
 	//**************************
 	// SLIDER
 	//**************************
-	var selectedYear = 2015;
+	var selectedYear = 2016;
 
 	var slider = viz.slider({
 		appendTo: svg,
