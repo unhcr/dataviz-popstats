@@ -1,0 +1,12 @@
+{
+  "name": "queue.v1.min",
+  "_cacheHeaders": {
+    "Last-Modified": "Thu, 21 Aug 2014 19:49:56 GMT",
+    "Content-Length": "692",
+    "Content-Type": "application/javascript; charset=utf-8"
+  },
+  "main": "index.js",
+  "_source": "http://d3js.org/queue.v1.min.js",
+  "_target": "*",
+  "_originalSource": "http://d3js.org/queue.v1.min.js"
+}

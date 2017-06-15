@@ -1,0 +1,13 @@
+{
+  "name": "tile",
+  "_cacheHeaders": {
+    "ETag": "\"864dd08d9d3af9c4c856a00662398959d13be3b8\"",
+    "Content-Length": "1281",
+    "Content-Type": "text/plain; charset=utf-8"
+  },
+  "_release": "e-tag:864dd08d9",
+  "main": "index.js",
+  "_source": "https://raw.githubusercontent.com/d3/d3-plugins/master/geo/tile/tile.js",
+  "_target": "*",
+  "_originalSource": "https://raw.githubusercontent.com/d3/d3-plugins/master/geo/tile/tile.js"
+}
