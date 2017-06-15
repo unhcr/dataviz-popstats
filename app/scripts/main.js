@@ -259,6 +259,15 @@ var viz = new Vizlib(dataSources, function(data){
 	// remove redacted (*) and replace with 0
 	$(data.poc).each(function(i,d){
 
+		if(!d.ref)d.ref = 0;
+		if(!d.roc)d.roc = 0;
+		if(!d.asy)d.asy = 0;
+		if(!d.idp)d.idp = 0;
+		if(!d.ret)d.ret = 0;
+		if(!d.ioc)d.ioc = 0;
+		if(!d.rdp)d.rdp = 0;
+		if(!d.sta)d.sta = 0;
+
 		for (var key in this) {
 			// console.log(this);
 			if(this[key]=='*'){
