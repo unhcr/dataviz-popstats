@@ -1,9 +1,8 @@
 // bower:scss
-@import "lato-webfont/scss/lato-webfont.scss";
 // endbower
 
 $primaryColor: #00b5ad;
-$font: 'Lato', sans-serif !important;
+$font: 'Proxima Nova', sans-serif !important;
 
 $color0: #444444;
 $color1: #4F4F4F; // header, titles
@@ -788,7 +787,8 @@ var {
 //**************************
 
 .axis {
-	font: 10px sans-serif;
+	font-size: 10px;
+	font-family: 'Proxima Nova', sans-serif !important;
 }
 
 .axis .yAxisLabel {

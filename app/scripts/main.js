@@ -907,7 +907,7 @@ var viz = new Vizlib(dataSources, function(data){
 	.attr('id', 'tooltipName')
 	.attr('x', 8)
 	.attr('y', 17)
-	.style('font-famly', 'Lato')
+	.style('font-famly', 'Proxima Nova')
 	.style('font-size', '12px')
 	.style('font-weight', 'bold')
 	.text('Country Name');
@@ -917,7 +917,7 @@ var viz = new Vizlib(dataSources, function(data){
 	.attr('id', 'tooltipVal')
 	.attr('x', 8)
 	.attr('y', 36)
-	.style('font-famly', 'Lato')
+	.style('font-famly', 'Proxima Nova')
 	.style('font-weight', 'bold')
 	.style('font-size', '14px')
 	.style('fill', '#0077C0')
@@ -928,7 +928,7 @@ var viz = new Vizlib(dataSources, function(data){
 	.attr('id', 'tooltipPoC')
 	.attr('x', 85)
 	.attr('y', 35)
-	.style('font-famly', 'Lato')
+	.style('font-famly', 'Proxima Nova')
 	.style('font-weight', 'normal')
 	.style('font-size', '12px')
 	.style('fill', 'grey')
@@ -1004,7 +1004,7 @@ var viz = new Vizlib(dataSources, function(data){
 			font: {
 				size: '12px',
 				weight: 'normal',
-				family: 'Lato',
+				family: 'Proxima Nova',
 				padding: 6
 			}
 		},
@@ -1022,13 +1022,13 @@ var viz = new Vizlib(dataSources, function(data){
 				values: {
 					size: '11px',
 					weight: 'bold',
-					family: 'Lato',
+					family: 'Proxima Nova',
 					padding: 0
 				},
 				label: {
 					size: '14px',
 					weight: 'bold',
-					family: 'Lato',
+					family: 'Proxima Nova',
 					padding: 10
 				}
 			}
@@ -1046,12 +1046,12 @@ var viz = new Vizlib(dataSources, function(data){
 				values: {
 					size: '14px',
 					weight: 'bold',
-					family: 'Lato'
+					family: 'Proxima Nova'
 				},
 				label: {
 					size: '14px',
 					weight: 'bold',
-					family: 'Lato'
+					family: 'Proxima Nova'
 				}
 			}
 		},
@@ -1094,7 +1094,7 @@ var viz = new Vizlib(dataSources, function(data){
 	// font: {
 	// 	size: '16px',
 	// 	weight: 'bold',
-	// 	family: 'Lato',
+	// 	family: 'Proxima Nova',
 	// },
 	// data: years,
 	// defaultSelected: 2009
@@ -1314,7 +1314,7 @@ var viz = new Vizlib(dataSources, function(data){
 	// add the total bg box manually
 	var totalBg = d3.select('#total').insert('rect', ':first-child')
 	.attr('id', '#totalBg')
-	.attr('x', 35)
+	.attr('x', 45)
 	.attr('y', 75)
 	.attr('rx', 8)
 	.attr('ry', 8)

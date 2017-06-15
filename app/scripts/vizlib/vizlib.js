@@ -729,7 +729,7 @@ var Vizlib = function(sources, callback){
 		opacity = 1,
 		fade = 0,
 		delay = 0,
-		fontFamily = 'Lato';
+		fontFamily = 'Proxima Nova';
 
 		// overwrite defaults if set
 		if(options.source){source = options.source};

@@ -9,7 +9,6 @@
     "topojson": "~1.6.18",
     "queue.v1.min": "http://d3js.org/queue.v1.min.js",
     "colorbrewer": "~1.0.0",
-    "jquery": "~2.1.4",
-    "lato-webfont": "~1.0.4"
+    "jquery": "~2.1.4"
   }
 }
