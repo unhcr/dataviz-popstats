@@ -73,11 +73,11 @@ module.exports = function (grunt) {
     // The actual grunt server settings
     connect: {
       options: {
-        port: 9002,
+        port: 9003,
         open: true,
         livereload: 35729,
         // Change this to '0.0.0.0' to access the server from outside
-        hostname: 'vizlib.dev',
+        hostname: 'vizlib.test',
       },
       livereload: {
         options: {
