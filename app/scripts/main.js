@@ -705,6 +705,18 @@ var viz = new Vizlib(dataSources, function(data){
 	//**************************
 	// DISPUTED BOUNDARIES
 	//**************************
+
+	var disputedBoundariesPolygons = map.addVectorPolygon({
+	    'source': data.disputed_boundaries_polygons, 
+	    'class': "boundarypolygons",
+	    'fillOpacity': 1,
+	    'fill': country.normal,
+	    'strokeOpacity': 1,
+	    'strokeWidth': 1,
+	    'strokeColor': '#FFFFFF',
+	    'strokeDotted': true
+	});
+	
 	var disputedBoundaries1 = map.addVectorPolygon({
 	    'source': data.disputed_boundaries, 
 	    'class': "boundary1",
@@ -720,17 +732,6 @@ var viz = new Vizlib(dataSources, function(data){
 	    'source': data.disputed_boundaries, 
 	    'class': "boundary2",
 	    'fillOpacity': 0,
-	    'fill': country.normal,
-	    'strokeOpacity': 1,
-	    'strokeWidth': 1,
-	    'strokeColor': '#FFFFFF',
-	    'strokeDotted': true
-	});
-
-	var disputedBoundariesPolygons = map.addVectorPolygon({
-	    'source': data.disputed_boundaries_polygons, 
-	    'class': "boundarypolygons",
-	    'fillOpacity': 1,
 	    'fill': country.normal,
 	    'strokeOpacity': 1,
 	    'strokeWidth': 1,
