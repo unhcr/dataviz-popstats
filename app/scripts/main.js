@@ -583,10 +583,8 @@ var viz = new Vizlib(dataSources, function(data){
 			})
 			.entries(yearData);
 
-					console.log(mapData);
-
-		mapData = mapData.filter(function(d){ console.log(d); return d.key != 'EST'});
-		mapData = mapData.filter(function(d){ console.log(d); return d.key != 'LVA'});
+		mapData = mapData.filter(function(d){ return d.key != 'EST'});
+		mapData = mapData.filter(function(d){ return d.key != 'LVA'});
 
 			mapData.sort(function(a, b){ return d3.descending(d3.sum(a.values.piedata), d3.sum(b.values.piedata)); });
 			mapData.forEach(function(d){
