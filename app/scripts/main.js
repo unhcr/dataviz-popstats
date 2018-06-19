@@ -353,7 +353,7 @@ var viz = new Vizlib(dataSources, function(data){
 		var yrMax = d3.max(d.values, function(d2) { return d2.key; });
 
 		// check for missing years
-		for(var y = 1951; y <= 2016; y++){
+		for(var y = 1951; y <= 2017; y++){
 			var found = 0;
 			// if year key is not in array
 			d.values.forEach(function(dd,ii){
@@ -545,6 +545,7 @@ var viz = new Vizlib(dataSources, function(data){
 		})
 		.entries(yearData);
 
+
 		mapData.forEach(function(d){
 			data.centroid.forEach(function(d1){
 				if(d.key==d1.iso3){
@@ -581,6 +582,11 @@ var viz = new Vizlib(dataSources, function(data){
 			} 
 			})
 			.entries(yearData);
+
+					console.log(mapData);
+
+		mapData = mapData.filter(function(d){ console.log(d); return d.key != 'EST'});
+		mapData = mapData.filter(function(d){ console.log(d); return d.key != 'LVA'});
 
 			mapData.sort(function(a, b){ return d3.descending(d3.sum(a.values.piedata), d3.sum(b.values.piedata)); });
 			mapData.forEach(function(d){
@@ -1116,7 +1122,7 @@ var viz = new Vizlib(dataSources, function(data){
 	//**************************
 	// SLIDER
 	//**************************
-	var selectedYear = 2016;
+	var selectedYear = 2017;
 
 	var slider = viz.slider({
 		appendTo: svg,
